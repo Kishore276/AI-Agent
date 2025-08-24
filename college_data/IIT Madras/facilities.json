@@ -1,0 +1,94 @@
+{
+  "academic_facilities": {
+    "libraries": {
+      "central_library": {
+        "name": "Central Library",
+        "area_sqft": 60000,
+        "books": 400000,
+        "journals": 2000,
+        "e_books": 150000,
+        "digital_resources": [
+          "IEEE Xplore",
+          "ACM Digital Library",
+          "Springer"
+        ],
+        "seating_capacity": 1000,
+        "working_hours": "24x7"
+      }
+    },
+    "laboratories": {
+      "total_labs": 150,
+      "computer_labs": 25,
+      "engineering_labs": 60,
+      "research_labs": 20
+    },
+    "classrooms": {
+      "total_classrooms": 150,
+      "smart_classrooms": 100,
+      "lecture_halls": 20,
+      "auditoriums": 3
+    }
+  },
+  "hostel_facilities": {
+    "boys_hostels": {
+      "count": 8,
+      "total_capacity": 3000,
+      "amenities": [
+        "24x7 Wi-Fi",
+        "Laundry",
+        "Gym",
+        "Security"
+      ]
+    },
+    "girls_hostels": {
+      "count": 4,
+      "total_capacity": 1500,
+      "amenities": [
+        "24x7 Wi-Fi",
+        "Laundry",
+        "Gym",
+        "Security"
+      ]
+    }
+  },
+  "sports_facilities": {
+    "outdoor_sports": {
+      "cricket_ground": {
+        "count": 2
+      },
+      "football_field": {
+        "count": 1
+      },
+      "basketball_courts": {
+        "count": 4
+      },
+      "tennis_courts": {
+        "count": 6
+      }
+    },
+    "indoor_sports": {
+      "gymnasium": {
+        "area_sqft": 5000
+      },
+      "swimming_pool": {
+        "type": "Olympic Size"
+      }
+    }
+  },
+  "other_facilities": {
+    "medical": {
+      "type": "24x7 Medical Center"
+    },
+    "banking": {
+      "banks": [
+        "SBI",
+        "Canara Bank"
+      ],
+      "atms": 5
+    },
+    "transportation": {
+      "bus_routes": 15,
+      "campus_shuttle": true
+    }
+  }
+}

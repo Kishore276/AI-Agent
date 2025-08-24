@@ -1,0 +1,285 @@
+{
+  "admission_year": "2025-2026",
+  "entrance_exams": {
+    "jee_advanced": {
+      "name": "Joint Entrance Examination Advanced",
+      "conducted_by": "IIT (Rotating basis)",
+      "mode": "Computer Based Test",
+      "eligibility": "JEE Main qualified (Top 2.5 lakh candidates)",
+      "exam_pattern": {
+        "papers": 2,
+        "duration_per_paper": "3 hours",
+        "subjects": [
+          "Physics",
+          "Chemistry",
+          "Mathematics"
+        ],
+        "marking_scheme": "Partial marking for correct answers"
+      },
+      "important_dates": {
+        "registration_start": "2025-04-30",
+        "registration_end": "2025-05-09",
+        "exam_date_paper1": "2025-05-26",
+        "exam_date_paper2": "2025-05-26",
+        "result_declaration": "2025-06-09"
+      }
+    },
+    "gate": {
+      "name": "Graduate Aptitude Test in Engineering",
+      "for_programs": [
+        "M.Tech",
+        "M.Sc",
+        "Ph.D"
+      ],
+      "minimum_score": "Valid GATE score required"
+    },
+    "jam": {
+      "name": "Joint Admission Test for M.Sc",
+      "for_programs": [
+        "M.Sc"
+      ],
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ]
+    }
+  },
+  "application_process": {
+    "online_application": {
+      "website": "https://jeeadv.ac.in",
+      "documents_required": [
+        "JEE Advanced Admit Card",
+        "10th Certificate",
+        "12th Certificate",
+        "Category Certificate (if applicable)",
+        "PwD Certificate (if applicable)",
+        "Passport Size Photographs"
+      ],
+      "application_fee": {
+        "general_obc": 2800,
+        "sc_st_pwd": 1400,
+        "female_candidates": 1400
+      }
+    },
+    "counseling_process": {
+      "josaa_counseling": {
+        "rounds": 6,
+        "seat_allotment": "Based on JEE Advanced rank and choices",
+        "document_verification": "Online + Physical reporting",
+        "fee_payment": "Within specified deadline after seat allotment"
+      }
+    }
+  },
+  "eligibility_criteria": {
+    "btech": {
+      "academic": "10+2 with Physics, Chemistry, Mathematics",
+      "minimum_percentage": 75,
+      "age_limit": "25 years (30 for SC/ST)",
+      "jee_advanced_rank": "Within closing rank for category"
+    },
+    "mtech": {
+      "academic": "B.Tech/B.E in relevant discipline",
+      "gate_score": "Valid GATE score required",
+      "minimum_cgpa": 6.5
+    },
+    "msc": {
+      "academic": "B.Sc with relevant subjects",
+      "jam_score": "Valid JAM score required",
+      "minimum_percentage": 60
+    }
+  },
+  "seat_matrix": {
+    "total_btech_seats": 800,
+    "category_wise": {
+      "general": 400,
+      "obc_ncl": 216,
+      "sc": 120,
+      "st": 60,
+      "ews": 80
+    },
+    "quota_wise": {
+      "home_state": 50,
+      "other_state": 50
+    },
+    "supernumerary": {
+      "female": "Additional seats as per policy",
+      "pwd": "5% of total seats",
+      "defense": "As per government norms"
+    }
+  },
+  "important_dates_2025": {
+    "jee_advanced_registration": "2025-04-23 to 2025-05-02",
+    "jee_advanced_exam": "2025-05-18",
+    "jee_advanced_result": "2025-06-02",
+    "josaa_counseling_start": "2025-06-03",
+    "classes_commence": "2025-07-15"
+  },
+  "cutoff_ranks_2024": {
+    "computer_science": {
+      "general": 67,
+      "obc": 162,
+      "sc": 471,
+      "st": 169
+    },
+    "electrical_engineering": {
+      "general": 298,
+      "obc": 567,
+      "sc": 1205,
+      "st": 892
+    },
+    "mechanical_engineering": {
+      "general": 756,
+      "obc": 1456,
+      "sc": 2890,
+      "st": 1678
+    }
+  },
+  "special_programs": {
+    "dual_degree": {
+      "available": true,
+      "duration": "5 years",
+      "programs": [
+        "B.Tech + M.Tech integrated"
+      ]
+    },
+    "foreign_students": {
+      "dasa_scheme": true,
+      "iccr_scholarship": true,
+      "self_financed": true
+    }
+  },
+  "last_updated": "August 2025",
+  "jee_2025_comprehensive": {
+    "jee_main": {
+      "session_1": {
+        "registration_start": "2025-01-01",
+        "registration_end": "2025-01-31",
+        "exam_dates": "2025-02-01 to 2025-02-08",
+        "result_date": "2025-02-15",
+        "application_fee": {
+          "general": 1000,
+          "sc_st": 500
+        }
+      },
+      "session_2": {
+        "registration_start": "2025-03-01",
+        "registration_end": "2025-03-31",
+        "exam_dates": "2025-04-02 to 2025-04-09",
+        "result_date": "2025-04-20",
+        "application_fee": {
+          "general": 1000,
+          "sc_st": 500
+        }
+      }
+    },
+    "jee_advanced": {
+      "registration_start": "2025-04-23",
+      "registration_end": "2025-05-02",
+      "exam_date": "2025-05-18",
+      "result_date": "2025-06-02",
+      "application_fee": {
+        "general": 2800,
+        "sc_st": 1400
+      },
+      "eligibility": "Top 2,50,000 JEE Main qualifiers"
+    },
+    "josaa_counseling": {
+      "start_date": "2025-06-03",
+      "choice_filling": "2025-06-03 to 2025-06-10",
+      "seat_allotment_rounds": 6,
+      "document_verification": "Online + Reporting at institutes"
+    }
+  },
+  "ai_agent_guidance": {
+    "step_by_step_process": [
+      "Check eligibility criteria",
+      "Register for JEE Main/Advanced",
+      "Appear for examination",
+      "Check results and ranks",
+      "Participate in counseling",
+      "Choose college and branch",
+      "Complete document verification",
+      "Pay fees and confirm admission"
+    ],
+    "important_tips": [
+      "Apply early to avoid last-minute rush",
+      "Keep all documents ready",
+      "Check multiple counseling rounds",
+      "Have backup options ready",
+      "Verify college accreditation"
+    ],
+    "common_mistakes": [
+      "Missing application deadlines",
+      "Incorrect document submission",
+      "Not participating in all counseling rounds",
+      "Ignoring state quota benefits",
+      "Not checking fee structure properly"
+    ]
+  },
+  "undergraduate_admission": {
+    "B.Tech": {
+      "academic_year": "2025-26",
+      "eligibility": {
+        "academic": "75% in 12th (65% for SC/ST)",
+        "entrance_exams": [
+          "JEE Advanced"
+        ],
+        "age_limit": "17-25 years (30 for SC/ST/PwD)"
+      },
+      "important_dates": {
+        "application_start": "March 2025",
+        "application_deadline": "May 2025",
+        "jee_main_session1": "January 24-February 1, 2025",
+        "jee_main_session2": "April 1-8, 2025",
+        "jee_advanced": "May 18, 2025",
+        "counseling_start": "June 2025",
+        "classes_start": "August 2025"
+      },
+      "selection_process": {
+        "step1": "Entrance exam qualification",
+        "step2": "Counseling participation",
+        "step3": "Document verification",
+        "step4": "Fee payment and admission confirmation"
+      }
+    }
+  },
+  "postgraduate_admission": {
+    "M.Tech": {
+      "academic_year": "2025-26",
+      "eligibility": "B.Tech/B.E. with 60% marks (55% for SC/ST)",
+      "entrance_exams": [
+        "GATE",
+        "State PGECET"
+      ],
+      "important_dates": {
+        "gate_exam": "February 3-4, 10-11, 2025",
+        "application_start": "March 2025",
+        "counseling": "June-July 2025"
+      }
+    },
+    "MBA": {
+      "academic_year": "2025-26",
+      "eligibility": "Bachelor's degree with 50% marks (45% for SC/ST)",
+      "entrance_exams": [
+        "CAT",
+        "MAT",
+        "XAT",
+        "State ICET"
+      ],
+      "selection_process": "Entrance exam + Group Discussion + Personal Interview"
+    }
+  },
+  "required_documents": [
+    "10th and 12th mark sheets and certificates",
+    "Transfer certificate from previous institution",
+    "Conduct certificate",
+    "Entrance exam scorecard (JEE/GATE/CAT etc.)",
+    "Category certificate (SC/ST/OBC if applicable)",
+    "Income certificate (for scholarships)",
+    "Passport size photographs (recent)",
+    "Aadhar card and PAN card",
+    "Medical fitness certificate",
+    "Migration certificate (for students from other boards)"
+  ]
+}

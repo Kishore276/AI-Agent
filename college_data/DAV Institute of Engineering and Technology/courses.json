@@ -1,0 +1,72 @@
+{
+  "undergraduate_programs": {
+    "engineering": {
+      "btech": {
+        "duration": "4 years",
+        "total_semesters": 8,
+        "eligibility": "JEE Main qualified",
+        "departments": [
+          {
+            "name": "Computer Science and Engineering",
+            "code": "CSE",
+            "specializations": [
+              "AI & ML",
+              "Data Science",
+              "Cyber Security",
+              "Software Engineering"
+            ],
+            "intake": 180,
+            "faculty_count": 30
+          },
+          {
+            "name": "Electronics and Communication Engineering",
+            "code": "ECE",
+            "specializations": [
+              "VLSI Design",
+              "Communication Systems",
+              "Embedded Systems"
+            ],
+            "intake": 120,
+            "faculty_count": 25
+          },
+          {
+            "name": "Mechanical Engineering",
+            "code": "ME",
+            "specializations": [
+              "Thermal Engineering",
+              "Design & Manufacturing",
+              "Robotics"
+            ],
+            "intake": 120,
+            "faculty_count": 28
+          }
+        ]
+      }
+    }
+  },
+  "postgraduate_programs": {
+    "mtech": {
+      "duration": "2 years",
+      "admission": "GATE qualified",
+      "programs": [
+        {
+          "name": "Computer Science",
+          "intake": 30
+        },
+        {
+          "name": "Electronics",
+          "intake": 25
+        }
+      ]
+    }
+  },
+  "doctoral_programs": {
+    "phd": {
+      "duration": "4-6 years",
+      "areas": [
+        "Engineering",
+        "Science"
+      ]
+    }
+  }
+}

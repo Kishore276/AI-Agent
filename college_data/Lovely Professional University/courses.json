@@ -1,0 +1,38 @@
+{
+  "undergraduate_programs": {
+    "engineering": {
+      "btech": {
+        "duration": "4 years",
+        "departments": [
+          {
+            "name": "Computer Science and Engineering",
+            "code": "CSE",
+            "specializations": [
+              "AI & ML",
+              "Data Science",
+              "Cyber Security"
+            ],
+            "intake": 180,
+            "faculty_count": 40
+          },
+          {
+            "name": "Electronics and Communication Engineering",
+            "code": "ECE",
+            "specializations": [
+              "VLSI",
+              "Communication Systems"
+            ],
+            "intake": 120,
+            "faculty_count": 35
+          }
+        ]
+      }
+    }
+  },
+  "postgraduate_programs": {
+    "mtech": {
+      "duration": "2 years",
+      "admission": "GATE qualified"
+    }
+  }
+}

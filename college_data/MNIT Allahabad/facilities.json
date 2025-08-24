@@ -1,0 +1,90 @@
+{
+  "academic_facilities": {
+    "libraries": {
+      "central_library": {
+        "name": "Central Library",
+        "books": 300000,
+        "e_books": 100000,
+        "journals": 1500,
+        "working_hours": "24x7",
+        "seating_capacity": 800
+      }
+    },
+    "laboratories": {
+      "total_labs": 100,
+      "computer_labs": 20,
+      "engineering_labs": 50,
+      "research_labs": 15
+    },
+    "classrooms": {
+      "total_classrooms": 120,
+      "smart_classrooms": 80,
+      "lecture_halls": 15,
+      "auditoriums": 2
+    }
+  },
+  "hostel_facilities": {
+    "boys_hostels": {
+      "count": 6,
+      "total_capacity": 2500,
+      "amenities": [
+        "24x7 Wi-Fi",
+        "Laundry",
+        "Gym",
+        "Security",
+        "Mess"
+      ]
+    },
+    "girls_hostels": {
+      "count": 3,
+      "total_capacity": 1200,
+      "amenities": [
+        "24x7 Wi-Fi",
+        "Laundry",
+        "Gym",
+        "Security",
+        "Mess"
+      ]
+    }
+  },
+  "sports_facilities": {
+    "outdoor_sports": {
+      "cricket_ground": {
+        "count": 1
+      },
+      "football_field": {
+        "count": 1
+      },
+      "basketball_courts": {
+        "count": 4
+      },
+      "tennis_courts": {
+        "count": 4
+      }
+    },
+    "indoor_sports": {
+      "gymnasium": {
+        "area_sqft": 5000
+      },
+      "badminton_courts": {
+        "count": 6
+      }
+    }
+  },
+  "other_facilities": {
+    "medical": {
+      "type": "24x7 Medical Center"
+    },
+    "banking": {
+      "banks": [
+        "SBI",
+        "Canara Bank"
+      ],
+      "atms": 3
+    },
+    "transportation": {
+      "bus_routes": 10,
+      "campus_shuttle": true
+    }
+  }
+}

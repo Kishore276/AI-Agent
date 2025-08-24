@@ -1,0 +1,170 @@
+{
+  "academic_year": "2025-2026",
+  "currency": "INR",
+  "last_updated": "December 2024",
+  "undergraduate": {
+    "btech": {
+      "tuition_fee_per_year": 100000,
+      "other_fees": {
+        "admission_fee": 0,
+        "caution_deposit": 5000,
+        "exam_fee": 3000,
+        "library_fee": 2000,
+        "lab_fee": 5000
+      },
+      "total_per_year": 120000,
+      "payment_schedule": {
+        "semester_wise": "Payment every semester"
+      }
+    }
+  },
+  "hostel_fees": {
+    "accommodation_per_year": 25000,
+    "mess_fee_per_year": 30000,
+    "total_per_year": 55000
+  },
+  "scholarships": {
+    "merit_scholarships": "25-100% fee waiver for top performers in JEE/EAMCET",
+    "need_based": "Complete fee waiver for family income below \u20b95 lakhs per annum",
+    "government_scholarships": "SC/ST/OBC scholarships as per government norms",
+    "girl_child_scholarships": "Special scholarships for girl students",
+    "sports_scholarships": "Fee concessions for outstanding sports achievements",
+    "updated": "August 2025"
+  },
+  "comprehensive_fee_structure": {
+    "academic_year": "2025-2026",
+    "currency": "INR",
+    "fee_type": "Annual",
+    "undergraduate": {
+      "btech": {
+        "tuition_fee": 300000,
+        "development_fee": 30000,
+        "lab_fee": 15000,
+        "library_fee": 5000,
+        "exam_fee": 3000,
+        "sports_fee": 2000,
+        "total_academic_fee": 330000
+      }
+    },
+    "hostel_accommodation": {
+      "room_rent": 80000,
+      "mess_charges": 50000,
+      "electricity_charges": 3000,
+      "water_charges": 1000,
+      "maintenance": 2000,
+      "security_deposit": 10000,
+      "total_hostel_fee": 136000
+    },
+    "total_annual_cost": 460000
+  },
+  "comprehensive_scholarships": {
+    "government_scholarships": [
+      {
+        "name": "Central Sector Scholarship",
+        "eligibility": "Top 20,000 JEE Main qualifiers",
+        "amount": "\u20b912,000 per year",
+        "duration": "4 years"
+      },
+      {
+        "name": "Post Matric Scholarship (SC/ST)",
+        "eligibility": "SC/ST students",
+        "amount": "Full fee waiver + maintenance",
+        "duration": "4 years"
+      },
+      {
+        "name": "OBC Scholarship",
+        "eligibility": "OBC students with family income < 8 lakhs",
+        "amount": "\u20b915,000 per year",
+        "duration": "4 years"
+      }
+    ],
+    "institute_scholarships": [
+      {
+        "name": "Merit Scholarship",
+        "eligibility": "Top 10% students in each semester",
+        "amount": "25-50% fee waiver",
+        "duration": "Semester-wise"
+      },
+      {
+        "name": "Need-based Scholarship",
+        "eligibility": "Family income < 5 lakhs",
+        "amount": "Complete fee waiver",
+        "duration": "4 years"
+      }
+    ],
+    "external_scholarships": [
+      {
+        "name": "Inspire Scholarship",
+        "eligibility": "Top 1% in 12th board",
+        "amount": "\u20b980,000 per year",
+        "duration": "4 years"
+      }
+    ]
+  },
+  "payment_and_loans": {
+    "payment_modes": [
+      "Online",
+      "DD",
+      "Bank Transfer",
+      "UPI"
+    ],
+    "installment_options": {
+      "available": true,
+      "number_of_installments": 2,
+      "schedule": "50% at admission, 50% in January"
+    },
+    "education_loans": {
+      "partner_banks": [
+        "SBI",
+        "HDFC",
+        "ICICI",
+        "Axis Bank",
+        "Canara Bank"
+      ],
+      "loan_amount": "Up to \u20b920 lakhs",
+      "interest_rate": "8.5% - 12% per annum",
+      "processing_time": "15-30 days",
+      "collateral_required": "For loans > \u20b97.5 lakhs"
+    }
+  },
+  "undergraduate_fees": {
+    "B.Tech": {
+      "academic_year": "2025-26",
+      "tuition_fee_per_year": 180000,
+      "development_fee": 30000,
+      "lab_fee": 15000,
+      "library_fee": 5000,
+      "total_academic_fee": 230000,
+      "hostel_fee": 90000,
+      "mess_fee": 60000,
+      "total_with_hostel": 360000,
+      "note": "Fee structure for 2025-26 academic year"
+    }
+  },
+  "postgraduate_fees": {
+    "M.Tech": {
+      "academic_year": "2025-26",
+      "tuition_fee_per_year": 125999,
+      "development_fee": 21000,
+      "total_academic_fee": 146999,
+      "hostel_fee": 80000,
+      "mess_fee": 50000,
+      "total_with_hostel": 288000
+    },
+    "MBA": {
+      "academic_year": "2025-26",
+      "tuition_fee_per_year": 144000,
+      "development_fee": 24000,
+      "total_academic_fee": 168000,
+      "hostel_fee": 80000,
+      "mess_fee": 50000,
+      "total_with_hostel": 306000
+    }
+  },
+  "payment_options": {
+    "installments": "Fees can be paid in 2-4 installments per semester",
+    "education_loans": "Tie-ups with SBI, HDFC, ICICI, Axis Bank for education loans up to \u20b920 lakhs",
+    "online_payment": "Available through college portal and UPI",
+    "updated": "August 2025"
+  }
+}

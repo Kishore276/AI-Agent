@@ -1,0 +1,241 @@
+{
+  "academic_facilities": {
+    "libraries": {
+      "central_library": {
+        "name": "Central Library",
+        "area_sqft": 80000,
+        "books": 500000,
+        "journals": 2500,
+        "e_books": 200000,
+        "digital_resources": ["IEEE Xplore", "ACM Digital Library", "Springer", "Elsevier", "Nature", "Science"],
+        "seating_capacity": 1200,
+        "working_hours": "24x7",
+        "facilities": ["Wi-Fi", "Air Conditioning", "Group Study Rooms", "Silent Zones", "Research Carrels"]
+      },
+      "departmental_libraries": {
+        "count": 15,
+        "specialized_collections": true
+      }
+    },
+    "laboratories": {
+      "total_labs": 150,
+      "computer_labs": 30,
+      "engineering_labs": 80,
+      "science_labs": 25,
+      "research_labs": 15,
+      "specialized_labs": [
+        {
+          "name": "Supercomputing Facility",
+          "equipment": ["High Performance Computing Clusters", "GPU Servers"],
+          "capacity": "100+ TFlops"
+        },
+        {
+          "name": "VLSI Design Lab",
+          "equipment": ["EDA Tools", "Fabrication Facility"],
+          "partnerships": ["Intel", "Cadence", "Synopsys"]
+        },
+        {
+          "name": "Robotics Lab",
+          "equipment": ["Industrial Robots", "Humanoid Robots", "UAVs"],
+          "research_areas": ["Autonomous Systems", "Human-Robot Interaction"]
+        },
+        {
+          "name": "Materials Characterization Lab",
+          "equipment": ["SEM", "TEM", "XRD", "AFM"],
+          "capabilities": ["Nanoscale Analysis", "Surface Characterization"]
+        }
+      ]
+    },
+    "classrooms": {
+      "total_classrooms": 200,
+      "smart_classrooms": 150,
+      "lecture_halls": 25,
+      "seminar_halls": 20,
+      "auditoriums": 3,
+      "features": ["Smart Boards", "Audio-Visual Systems", "Wi-Fi", "Air Conditioning"]
+    }
+  },
+  "hostel_facilities": {
+    "boys_hostels": {
+      "count": 10,
+      "total_capacity": 3500,
+      "room_types": ["Single", "Double Sharing"],
+      "amenities": [
+        "24x7 Wi-Fi",
+        "Laundry Service",
+        "Common Room with TV",
+        "Reading Room",
+        "Gym",
+        "Indoor Games",
+        "24x7 Security",
+        "CCTV Surveillance",
+        "Mess Facility"
+      ]
+    },
+    "girls_hostels": {
+      "count": 4,
+      "total_capacity": 1500,
+      "room_types": ["Single", "Double Sharing"],
+      "amenities": [
+        "24x7 Wi-Fi",
+        "Laundry Service",
+        "Common Room with TV",
+        "Reading Room",
+        "Gym",
+        "Indoor Games",
+        "24x7 Security",
+        "CCTV Surveillance",
+        "Lady Warden",
+        "Mess Facility"
+      ]
+    },
+    "mess_facilities": {
+      "dining_halls": 6,
+      "seating_capacity": 3000,
+      "meal_types": ["Vegetarian", "Non-Vegetarian", "Jain Food", "South Indian", "North Indian"],
+      "meal_timings": {
+        "breakfast": "7:30 AM - 9:30 AM",
+        "lunch": "12:00 PM - 2:00 PM",
+        "snacks": "5:00 PM - 6:30 PM",
+        "dinner": "7:30 PM - 10:00 PM"
+      },
+      "special_features": ["Hygienic Kitchen", "RO Water", "Variety Menu", "Festival Specials"]
+    }
+  },
+  "sports_facilities": {
+    "outdoor_sports": {
+      "cricket_ground": {
+        "count": 2,
+        "features": ["Floodlights", "Pavilion", "Practice Nets"]
+      },
+      "football_field": {
+        "count": 2,
+        "type": "FIFA Standard"
+      },
+      "basketball_courts": {
+        "count": 6,
+        "surface": "Synthetic"
+      },
+      "tennis_courts": {
+        "count": 8,
+        "surface": "Hard Court",
+        "floodlights": true
+      },
+      "volleyball_courts": {
+        "count": 4
+      },
+      "badminton_courts": {
+        "count": 8,
+        "indoor": true
+      },
+      "athletics_track": {
+        "type": "400m Synthetic Track",
+        "facilities": ["Long Jump", "High Jump", "Shot Put", "Javelin"]
+      }
+    },
+    "indoor_sports": {
+      "sports_complex": {
+        "area_sqft": 25000,
+        "sports": ["Badminton", "Table Tennis", "Chess", "Carrom", "Squash"]
+      },
+      "gymnasium": {
+        "area_sqft": 8000,
+        "equipment": ["Cardio Machines", "Weight Training", "Functional Training", "CrossFit"]
+      },
+      "swimming_pool": {
+        "type": "Olympic Size",
+        "features": ["8 Lanes", "Diving Board", "Changing Rooms", "Shower Facilities"]
+      }
+    }
+  },
+  "medical_facilities": {
+    "health_center": {
+      "type": "24x7 Medical Center",
+      "staff": ["Doctors", "Nurses", "Specialists", "Pharmacist"],
+      "services": ["Emergency Care", "General Consultation", "Specialist Consultation", "Pharmacy", "Pathology"],
+      "ambulance": "Available 24x7"
+    },
+    "tie_ups": [
+      "Kokilaben Dhirubhai Ambani Hospital",
+      "Lilavati Hospital",
+      "Hinduja Hospital",
+      "KEM Hospital"
+    ]
+  },
+  "transportation": {
+    "campus_shuttle": {
+      "routes": 15,
+      "buses": 25,
+      "coverage": "All campus areas",
+      "frequency": "Every 10 minutes"
+    },
+    "external_connectivity": {
+      "nearest_station": "Kanjurmarg Railway Station",
+      "distance_km": 2,
+      "shuttle_service": "Available"
+    },
+    "airport_connectivity": {
+      "nearest_airport": "Chhatrapati Shivaji International Airport",
+      "distance_km": 15,
+      "travel_time": "45 minutes"
+    }
+  },
+  "other_facilities": {
+    "banking": {
+      "banks": ["SBI", "Canara Bank", "HDFC Bank", "ICICI Bank"],
+      "atms": 8,
+      "services": ["Account Opening", "Loan Processing", "International Banking"]
+    },
+    "shopping": {
+      "stores": ["Stationery", "Books", "Electronics", "Clothing", "Groceries"],
+      "food_courts": 4,
+      "cafeterias": 8
+    },
+    "communication": {
+      "post_office": "On Campus",
+      "courier_services": "Available",
+      "internet": "High Speed Wi-Fi Campus Wide",
+      "telecom": "All major operators"
+    },
+    "security": {
+      "type": "24x7 Security",
+      "features": ["CCTV Surveillance", "Access Control", "Security Personnel", "Emergency Response"],
+      "emergency_helpline": "+91-22-2576-7440"
+    }
+  },
+  "research_facilities": {
+    "research_centers": [
+      {
+        "name": "Centre for Technology Alternatives for Rural Areas",
+        "focus_areas": ["Rural Technology", "Sustainable Development"]
+      },
+      {
+        "name": "Centre for Aerospace Systems Design and Engineering",
+        "focus_areas": ["Aerospace Design", "Propulsion Systems"]
+      },
+      {
+        "name": "Centre for Machine Intelligence and Data Science",
+        "focus_areas": ["AI", "Machine Learning", "Big Data Analytics"]
+      },
+      {
+        "name": "Centre for Research in Nanotechnology and Science",
+        "focus_areas": ["Nanomaterials", "Nanodevices", "Nanobiotechnology"]
+      }
+    ],
+    "funding_agencies": ["DST", "CSIR", "DRDO", "ISRO", "DAE", "DBT"],
+    "industry_collaborations": ["Tata", "Reliance", "L&T", "Mahindra", "Bajaj"]
+  },
+  "innovation_facilities": {
+    "incubation_center": {
+      "name": "Society for Innovation and Entrepreneurship",
+      "startups_incubated": 150,
+      "funding_support": "Up to 50 lakhs",
+      "mentorship": "Industry Experts and Alumni"
+    },
+    "maker_spaces": {
+      "fab_lab": "Digital Fabrication Laboratory",
+      "design_studio": "Product Design Studio",
+      "electronics_lab": "Electronics Prototyping Lab"
+    }
+  }
+}

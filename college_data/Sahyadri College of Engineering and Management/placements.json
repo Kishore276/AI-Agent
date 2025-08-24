@@ -1,0 +1,88 @@
+{
+  "placement_statistics": {
+    "2024": {
+      "total_students": 600,
+      "students_placed": 480,
+      "placement_percentage": 80,
+      "highest_package": 1500000,
+      "average_package": 500000,
+      "median_package": 450000
+    },
+    "2023": {
+      "total_students": 580,
+      "students_placed": 450,
+      "placement_percentage": 78,
+      "highest_package": 1200000,
+      "average_package": 480000,
+      "median_package": 420000
+    }
+  },
+  "top_recruiters": [
+    "TCS",
+    "Infosys",
+    "Wipro",
+    "Accenture",
+    "Cognizant",
+    "HCL Technologies",
+    "Tech Mahindra",
+    "Capgemini",
+    "IBM",
+    "L&T Infotech",
+    "Mindtree",
+    "Mphasis",
+    "DXC Technology",
+    "Hexaware",
+    "Cyient",
+    "Local IT companies"
+  ],
+  "ai_placement_guidance": {
+    "preparation_timeline": {
+      "2nd_year": [
+        "Focus on academics",
+        "Learn programming",
+        "Join coding clubs"
+      ],
+      "3rd_year": [
+        "Start competitive programming",
+        "Do internships",
+        "Build projects"
+      ],
+      "4th_year": [
+        "Prepare for interviews",
+        "Update resume",
+        "Practice aptitude"
+      ]
+    },
+    "skill_requirements": {
+      "technical_skills": [
+        "Programming",
+        "Data Structures",
+        "Algorithms",
+        "System Design"
+      ],
+      "soft_skills": [
+        "Communication",
+        "Problem Solving",
+        "Teamwork",
+        "Leadership"
+      ],
+      "domain_specific": [
+        "Web Development",
+        "Mobile Apps",
+        "AI/ML",
+        "Cloud Computing"
+      ]
+    },
+    "interview_process": {
+      "rounds": [
+        "Online Test",
+        "Technical Interview",
+        "HR Interview"
+      ],
+      "duration": "2-4 hours",
+      "preparation_time": "3-6 months"
+    }
+  },
+  "last_updated": "August 2025",
+  "academic_year": "2024-25"
+}

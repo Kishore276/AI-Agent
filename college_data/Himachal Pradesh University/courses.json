@@ -1,0 +1,92 @@
+{
+  "undergraduate_programs": {
+    "engineering": {
+      "btech": {
+        "duration": "4 years",
+        "total_semesters": 8,
+        "eligibility": "JEE Main qualified or State CET",
+        "departments": [
+          {
+            "name": "Computer Science and Engineering",
+            "code": "CSE",
+            "specializations": [
+              "Software Engineering",
+              "Data Science",
+              "Web Development"
+            ],
+            "intake": 180,
+            "faculty_count": 40
+          },
+          {
+            "name": "Electronics and Communication Engineering",
+            "code": "ECE",
+            "specializations": [
+              "VLSI Design",
+              "Communication Systems",
+              "Embedded Systems"
+            ],
+            "intake": 120,
+            "faculty_count": 30
+          },
+          {
+            "name": "Mechanical Engineering",
+            "code": "ME",
+            "specializations": [
+              "Thermal Engineering",
+              "Design & Manufacturing",
+              "Automobile"
+            ],
+            "intake": 120,
+            "faculty_count": 28
+          },
+          {
+            "name": "Civil Engineering",
+            "code": "CE",
+            "specializations": [
+              "Structural",
+              "Environmental",
+              "Transportation"
+            ],
+            "intake": 60,
+            "faculty_count": 25
+          },
+          {
+            "name": "Electrical Engineering",
+            "code": "EE",
+            "specializations": [
+              "Power Systems",
+              "Control Systems"
+            ],
+            "intake": 80,
+            "faculty_count": 30
+          }
+        ]
+      }
+    }
+  },
+  "postgraduate_programs": {
+    "mtech": {
+      "duration": "2 years",
+      "admission": "GATE qualified",
+      "programs": [
+        {
+          "name": "Computer Science",
+          "intake": 25
+        },
+        {
+          "name": "Electronics",
+          "intake": 20
+        }
+      ]
+    }
+  },
+  "doctoral_programs": {
+    "phd": {
+      "duration": "4-6 years",
+      "areas": [
+        "Engineering",
+        "Science"
+      ]
+    }
+  }
+}

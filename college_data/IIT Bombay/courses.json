@@ -1,0 +1,189 @@
+{
+  "undergraduate_programs": {
+    "engineering": {
+      "btech": {
+        "duration": "4 years",
+        "total_semesters": 8,
+        "eligibility": "JEE Advanced qualified candidates only",
+        "admission_process": ["JEE Advanced"],
+        "departments": [
+          {
+            "name": "Computer Science and Engineering",
+            "code": "CSE",
+            "specializations": [
+              "Artificial Intelligence",
+              "Machine Learning",
+              "Data Science",
+              "Computer Systems",
+              "Software Engineering",
+              "Theoretical Computer Science"
+            ],
+            "intake": 120,
+            "faculty_count": 65,
+            "labs": ["AI Lab", "Systems Lab", "Networks Lab", "Graphics Lab", "Database Lab"]
+          },
+          {
+            "name": "Electrical Engineering",
+            "code": "EE",
+            "specializations": [
+              "Power Systems",
+              "Electronics",
+              "Communication Systems",
+              "Control Systems",
+              "VLSI Design"
+            ],
+            "intake": 120,
+            "faculty_count": 70,
+            "labs": ["Power Lab", "Electronics Lab", "Communication Lab", "Control Lab"]
+          },
+          {
+            "name": "Mechanical Engineering",
+            "code": "ME",
+            "specializations": [
+              "Thermal Engineering",
+              "Design and Manufacturing",
+              "Materials Science",
+              "Robotics",
+              "Automotive Engineering"
+            ],
+            "intake": 120,
+            "faculty_count": 60,
+            "labs": ["Manufacturing Lab", "Thermal Lab", "Materials Lab", "Robotics Lab"]
+          },
+          {
+            "name": "Civil Engineering",
+            "code": "CE",
+            "specializations": [
+              "Structural Engineering",
+              "Environmental Engineering",
+              "Transportation Engineering",
+              "Geotechnical Engineering",
+              "Water Resources"
+            ],
+            "intake": 80,
+            "faculty_count": 45,
+            "labs": ["Structural Lab", "Environmental Lab", "Geotechnical Lab"]
+          },
+          {
+            "name": "Chemical Engineering",
+            "code": "ChE",
+            "specializations": [
+              "Process Engineering",
+              "Biochemical Engineering",
+              "Materials Engineering",
+              "Environmental Engineering"
+            ],
+            "intake": 80,
+            "faculty_count": 40,
+            "labs": ["Process Lab", "Biochemical Lab", "Materials Lab"]
+          },
+          {
+            "name": "Aerospace Engineering",
+            "code": "AE",
+            "specializations": [
+              "Aerodynamics",
+              "Propulsion",
+              "Structures",
+              "Flight Mechanics"
+            ],
+            "intake": 60,
+            "faculty_count": 35,
+            "labs": ["Wind Tunnel Lab", "Propulsion Lab", "Structures Lab"]
+          },
+          {
+            "name": "Metallurgical Engineering and Materials Science",
+            "code": "MEMS",
+            "specializations": [
+              "Physical Metallurgy",
+              "Process Metallurgy",
+              "Materials Science",
+              "Corrosion Engineering"
+            ],
+            "intake": 60,
+            "faculty_count": 30,
+            "labs": ["Physical Metallurgy Lab", "Process Lab", "Materials Characterization Lab"]
+          }
+        ]
+      }
+    },
+    "science": {
+      "bsc": {
+        "duration": "3 years",
+        "programs": [
+          {
+            "name": "Physics",
+            "intake": 40,
+            "eligibility": "JEE Advanced qualified"
+          },
+          {
+            "name": "Chemistry",
+            "intake": 40,
+            "eligibility": "JEE Advanced qualified"
+          },
+          {
+            "name": "Mathematics",
+            "intake": 40,
+            "eligibility": "JEE Advanced qualified"
+          }
+        ]
+      }
+    }
+  },
+  "postgraduate_programs": {
+    "mtech": {
+      "duration": "2 years",
+      "admission": "GATE qualified",
+      "programs": [
+        {
+          "name": "Computer Science and Engineering",
+          "specializations": ["AI & ML", "Systems", "Theory", "Networks"],
+          "intake": 50
+        },
+        {
+          "name": "Electrical Engineering",
+          "specializations": ["Power Systems", "VLSI", "Communication"],
+          "intake": 45
+        },
+        {
+          "name": "Mechanical Engineering",
+          "specializations": ["Thermal", "Design", "Manufacturing"],
+          "intake": 40
+        }
+      ]
+    },
+    "msc": {
+      "duration": "2 years",
+      "programs": [
+        {
+          "name": "Physics",
+          "intake": 25
+        },
+        {
+          "name": "Chemistry",
+          "intake": 25
+        },
+        {
+          "name": "Mathematics",
+          "intake": 25
+        }
+      ]
+    },
+    "mba": {
+      "duration": "2 years",
+      "specializations": ["Finance", "Marketing", "Operations", "Strategy"],
+      "intake": 120
+    }
+  },
+  "doctoral_programs": {
+    "phd": {
+      "duration": "4-6 years",
+      "areas": [
+        "Engineering",
+        "Science",
+        "Management",
+        "Design",
+        "Humanities"
+      ]
+    }
+  }
+}

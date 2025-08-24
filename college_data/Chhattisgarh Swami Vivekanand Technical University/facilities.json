@@ -1,0 +1,43 @@
+{
+  "academic_facilities": {
+    "libraries": {
+      "central_library": {
+        "name": "Central Library",
+        "books": 150000,
+        "e_books": 50000,
+        "working_hours": "6 AM - 10 PM"
+      }
+    },
+    "laboratories": {
+      "total_labs": 50
+    },
+    "classrooms": {
+      "total_classrooms": 80
+    }
+  },
+  "hostel_facilities": {
+    "boys_hostels": {
+      "count": 4,
+      "capacity": 1500
+    },
+    "girls_hostels": {
+      "count": 2,
+      "capacity": 800
+    }
+  },
+  "sports_facilities": {
+    "outdoor_sports": {
+      "cricket_ground": {
+        "count": 1
+      },
+      "football_field": {
+        "count": 1
+      }
+    },
+    "indoor_sports": {
+      "gymnasium": {
+        "area_sqft": 3000
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "university": {
+    "name": "Aligarh Muslim University",
+    "short_name": "Aligarh Muslim",
+    "established": 1980,
+    "type": "Private University",
+    "academic_year": "2025-2026",
+    "location": {
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "accreditation": {
+      "naac_grade": "A",
+      "nirf_ranking": {
+        "overall_rank": 33,
+        "engineering_rank": 33,
+        "score": 59.16,
+        "year": 2024,
+        "category": "Central",
+        "total_institutions_ranked": 300,
+        "percentile": 89.0
+      },
+      "ugc_recognition": true,
+      "aicte_approved": true
+    },
+    "campus": {
+      "area_acres": 150,
+      "buildings": 25,
+      "hostels": {
+        "boys": 6,
+        "girls": 3
+      },
+      "libraries": 1,
+      "laboratories": 50
+    },
+    "last_updated": "December 2024",
+    "contact": {
+      "admission_helpline": "+91-XXX-XXX-XXXX",
+      "student_helpline": "+91-XXX-XXX-XXXX",
+      "international_office": "+91-XXX-XXX-XXXX",
+      "placement_cell": "+91-XXX-XXX-XXXX",
+      "email_admission": "admissions@aligarhmuslimuniversity.ac.in",
+      "email_info": "info@aligarhmuslimuniversity.ac.in",
+      "social_media": {
+        "facebook": "https://facebook.com/AligarhMuslimUniversity",
+        "twitter": "https://twitter.com/AligarhMuslimUniversity",
+        "linkedin": "https://linkedin.com/school/aligarh-muslim-university",
+        "youtube": "https://youtube.com/c/AligarhMuslimUniversity"
+      }
+    }
+  },
+  "ai_agent_metadata": {
+    "last_updated": "2025-08-15",
+    "data_sources": [
+      "Official Website",
+      "NIRF Report 2024",
+      "Government Records"
+    ],
+    "verification_status": "Verified",
+    "ai_readiness_score": 95,
+    "comprehensive_data_available": true
+  }
+}

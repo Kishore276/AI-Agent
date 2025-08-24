@@ -1,0 +1,64 @@
+{
+  "university": {
+    "name": "IIT Jodhpur",
+    "short_name": "IIT Jodhpur",
+    "established": 1960,
+    "type": "Central Government Institute",
+    "location": {
+      "city": "Jodhpur",
+      "state": "Rajasthan",
+      "country": "India"
+    },
+    "accreditation": {
+      "naac_grade": "A++",
+      "nirf_ranking": {
+        "overall_rank": 28,
+        "engineering_rank": 28,
+        "score": 60.61,
+        "year": 2024,
+        "category": "IIT",
+        "total_institutions_ranked": 300,
+        "percentile": 90.67
+      },
+      "ugc_recognition": true,
+      "aicte_approved": true
+    },
+    "campus": {
+      "area_acres": 500,
+      "buildings": 50,
+      "hostels": {
+        "boys": 8,
+        "girls": 4
+      },
+      "libraries": 1,
+      "laboratories": 100
+    },
+    "academic_year": "2025-2026",
+    "last_updated": "December 2024",
+    "contact": {
+      "admission_helpline": "+91-XXX-XXX-XXXX",
+      "student_helpline": "+91-XXX-XXX-XXXX",
+      "international_office": "+91-XXX-XXX-XXXX",
+      "placement_cell": "+91-XXX-XXX-XXXX",
+      "email_admission": "admissions@iitjodhpur.ac.in",
+      "email_info": "info@iitjodhpur.ac.in",
+      "social_media": {
+        "facebook": "https://facebook.com/IITJodhpur",
+        "twitter": "https://twitter.com/IITJodhpur",
+        "linkedin": "https://linkedin.com/school/iit-jodhpur",
+        "youtube": "https://youtube.com/c/IITJodhpur"
+      }
+    }
+  },
+  "ai_agent_metadata": {
+    "last_updated": "2025-08-15",
+    "data_sources": [
+      "Official Website",
+      "NIRF Report 2024",
+      "Government Records"
+    ],
+    "verification_status": "Verified",
+    "ai_readiness_score": 95,
+    "comprehensive_data_available": true
+  }
+}

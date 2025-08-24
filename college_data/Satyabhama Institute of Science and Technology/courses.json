@@ -1,0 +1,83 @@
+{
+  "undergraduate_programs": {
+    "B.Tech": {
+      "Computer Science and Engineering": {
+        "duration": "4 years",
+        "seats": 120,
+        "specializations": [
+          "Artificial Intelligence",
+          "Data Science",
+          "Cyber Security"
+        ]
+      },
+      "Electronics and Communication Engineering": {
+        "duration": "4 years",
+        "seats": 120,
+        "specializations": [
+          "VLSI Design",
+          "Embedded Systems",
+          "Signal Processing"
+        ]
+      },
+      "Mechanical Engineering": {
+        "duration": "4 years",
+        "seats": 120,
+        "specializations": [
+          "Thermal Engineering",
+          "Design Engineering",
+          "Manufacturing"
+        ]
+      },
+      "Civil Engineering": {
+        "duration": "4 years",
+        "seats": 60,
+        "specializations": [
+          "Structural Engineering",
+          "Transportation",
+          "Environmental"
+        ]
+      },
+      "Electrical and Electronics Engineering": {
+        "duration": "4 years",
+        "seats": 60,
+        "specializations": [
+          "Power Systems",
+          "Control Systems",
+          "Renewable Energy"
+        ]
+      },
+      "Information Technology": {
+        "duration": "4 years",
+        "seats": 60,
+        "specializations": [
+          "Software Engineering",
+          "Network Security",
+          "Web Technologies"
+        ]
+      }
+    }
+  },
+  "postgraduate_programs": {
+    "M.Tech": {
+      "available_branches": [
+        "CSE",
+        "ECE",
+        "Mechanical",
+        "Civil",
+        "EEE"
+      ],
+      "duration": "2 years",
+      "seats_per_branch": 18
+    },
+    "MBA": {
+      "duration": "2 years",
+      "seats": 60,
+      "specializations": [
+        "Finance",
+        "Marketing",
+        "HR",
+        "Operations"
+      ]
+    }
+  }
+}

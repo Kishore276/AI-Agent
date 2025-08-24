@@ -1,0 +1,69 @@
+{
+  "placement_statistics": {
+    "2024": {
+      "total_students": 600,
+      "students_placed": 480,
+      "placement_percentage": 80,
+      "highest_package": 1500000,
+      "average_package": 500000,
+      "median_package": 450000
+    },
+    "2023": {
+      "total_students": 580,
+      "students_placed": 450,
+      "placement_percentage": 78,
+      "highest_package": 1200000,
+      "average_package": 480000,
+      "median_package": 420000
+    }
+  },
+  "top_recruiters": [
+    "TCS",
+    "Infosys",
+    "Wipro",
+    "Accenture",
+    "Cognizant",
+    "HCL Technologies",
+    "Tech Mahindra",
+    "Capgemini",
+    "IBM",
+    "L&T Infotech",
+    "Mindtree",
+    "Mphasis",
+    "DXC Technology",
+    "Hexaware",
+    "Cyient",
+    "Local IT companies"
+  ],
+  "placement_process": {
+    "pre_placement_activities": [
+      "Resume building workshops",
+      "Mock interviews",
+      "Aptitude training",
+      "Soft skills development",
+      "Technical training"
+    ],
+    "placement_season": "July to March",
+    "training_and_placement_cell": {
+      "dedicated_staff": 5,
+      "industry_connections": "Strong ties with 200+ companies",
+      "placement_support": "Comprehensive career guidance"
+    }
+  },
+  "sector_wise_placements": {
+    "IT_Services": 60,
+    "Product_Companies": 15,
+    "Core_Engineering": 10,
+    "Banking_Finance": 8,
+    "Consulting": 4,
+    "Others": 3
+  },
+  "internship_opportunities": {
+    "summer_internships": "Mandatory for all students",
+    "duration": "6-8 weeks",
+    "stipend_range": "\u20b95,000 - \u20b925,000 per month",
+    "conversion_rate": "30% internships convert to full-time offers"
+  },
+  "last_updated": "August 2025",
+  "academic_year": "2024-25"
+}
