@@ -1,0 +1,105 @@
+{
+  "undergraduate_programs": {
+    "engineering": {
+      "btech": {
+        "duration": "4 years",
+        "total_semesters": 8,
+        "eligibility": "JEE Main qualified",
+        "admission_process": [
+          "JEE Main",
+          "State CET"
+        ],
+        "departments": [
+          {
+            "name": "Computer Science and Engineering",
+            "code": "CSE",
+            "specializations": [
+              "Artificial Intelligence",
+              "Data Science",
+              "Software Engineering",
+              "Cyber Security"
+            ],
+            "intake": 180,
+            "faculty_count": 45,
+            "labs": [
+              "Programming Lab",
+              "AI Lab",
+              "Database Lab",
+              "Networks Lab"
+            ]
+          },
+          {
+            "name": "Electronics and Communication Engineering",
+            "code": "ECE",
+            "specializations": [
+              "VLSI Design",
+              "Communication Systems",
+              "Signal Processing",
+              "Embedded Systems"
+            ],
+            "intake": 120,
+            "faculty_count": 35,
+            "labs": [
+              "Electronics Lab",
+              "Communication Lab",
+              "VLSI Lab",
+              "Microprocessor Lab"
+            ]
+          },
+          {
+            "name": "Mechanical Engineering",
+            "code": "ME",
+            "specializations": [
+              "Thermal Engineering",
+              "Design and Manufacturing",
+              "Robotics",
+              "Automobile"
+            ],
+            "intake": 120,
+            "faculty_count": 40,
+            "labs": [
+              "Manufacturing Lab",
+              "Thermal Lab",
+              "CAD Lab",
+              "Robotics Lab"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "postgraduate_programs": {
+    "mtech": {
+      "duration": "2 years",
+      "admission": "GATE qualified",
+      "programs": [
+        {
+          "name": "Computer Science and Engineering",
+          "specializations": [
+            "AI & ML",
+            "Systems"
+          ],
+          "intake": 50
+        },
+        {
+          "name": "Electrical Engineering",
+          "specializations": [
+            "Power Systems",
+            "VLSI"
+          ],
+          "intake": 40
+        }
+      ]
+    }
+  },
+  "doctoral_programs": {
+    "phd": {
+      "duration": "4-6 years",
+      "areas": [
+        "Engineering",
+        "Science",
+        "Management"
+      ]
+    }
+  }
+}

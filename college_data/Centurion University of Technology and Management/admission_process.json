@@ -1,0 +1,158 @@
+{
+  "admission_year": "2025-2026",
+  "last_updated": "August 2025",
+  "entrance_exams": {
+    "primary_exam": {
+      "name": "JEE Main",
+      "mode": "Computer Based Test",
+      "cutoff_rank": 3750
+    }
+  },
+  "important_dates_2025": {
+    "application_start": "2025-03-01",
+    "application_end": "2025-04-30",
+    "exam_date": "2025-04-02",
+    "result_date": "2025-04-20",
+    "counseling_start": "2025-06-03"
+  },
+  "eligibility_criteria": {
+    "btech": {
+      "academic": "10+2 with PCM",
+      "minimum_percentage": 60,
+      "age_limit": "25 years"
+    }
+  },
+  "jee_2025_comprehensive": {
+    "jee_main": {
+      "session_1": {
+        "registration_start": "2025-01-01",
+        "registration_end": "2025-01-31",
+        "exam_dates": "2025-02-01 to 2025-02-08",
+        "result_date": "2025-02-15",
+        "application_fee": {
+          "general": 1000,
+          "sc_st": 500
+        }
+      },
+      "session_2": {
+        "registration_start": "2025-03-01",
+        "registration_end": "2025-03-31",
+        "exam_dates": "2025-04-02 to 2025-04-09",
+        "result_date": "2025-04-20",
+        "application_fee": {
+          "general": 1000,
+          "sc_st": 500
+        }
+      }
+    },
+    "jee_advanced": {
+      "registration_start": "2025-04-23",
+      "registration_end": "2025-05-02",
+      "exam_date": "2025-05-18",
+      "result_date": "2025-06-02",
+      "application_fee": {
+        "general": 2800,
+        "sc_st": 1400
+      },
+      "eligibility": "Top 2,50,000 JEE Main qualifiers"
+    },
+    "josaa_counseling": {
+      "start_date": "2025-06-03",
+      "choice_filling": "2025-06-03 to 2025-06-10",
+      "seat_allotment_rounds": 6,
+      "document_verification": "Online + Reporting at institutes"
+    }
+  },
+  "ai_agent_guidance": {
+    "step_by_step_process": [
+      "Check eligibility criteria",
+      "Register for JEE Main/Advanced",
+      "Appear for examination",
+      "Check results and ranks",
+      "Participate in counseling",
+      "Choose college and branch",
+      "Complete document verification",
+      "Pay fees and confirm admission"
+    ],
+    "important_tips": [
+      "Apply early to avoid last-minute rush",
+      "Keep all documents ready",
+      "Check multiple counseling rounds",
+      "Have backup options ready",
+      "Verify college accreditation"
+    ],
+    "common_mistakes": [
+      "Missing application deadlines",
+      "Incorrect document submission",
+      "Not participating in all counseling rounds",
+      "Ignoring state quota benefits",
+      "Not checking fee structure properly"
+    ]
+  },
+  "undergraduate_admission": {
+    "B.Tech": {
+      "academic_year": "2025-26",
+      "eligibility": {
+        "academic": "60% in 12th with PCM",
+        "entrance_exams": [
+          "JEE Main",
+          "State CET"
+        ],
+        "age_limit": "17-25 years (30 for SC/ST/PwD)"
+      },
+      "important_dates": {
+        "application_start": "March 2025",
+        "application_deadline": "May 2025",
+        "jee_main_session1": "January 24-February 1, 2025",
+        "jee_main_session2": "April 1-8, 2025",
+        "jee_advanced": "Not applicable",
+        "counseling_start": "June 2025",
+        "classes_start": "August 2025"
+      },
+      "selection_process": {
+        "step1": "Entrance exam qualification",
+        "step2": "Counseling participation",
+        "step3": "Document verification",
+        "step4": "Fee payment and admission confirmation"
+      }
+    }
+  },
+  "postgraduate_admission": {
+    "M.Tech": {
+      "academic_year": "2025-26",
+      "eligibility": "B.Tech/B.E. with 60% marks (55% for SC/ST)",
+      "entrance_exams": [
+        "GATE",
+        "State PGECET"
+      ],
+      "important_dates": {
+        "gate_exam": "February 3-4, 10-11, 2025",
+        "application_start": "March 2025",
+        "counseling": "June-July 2025"
+      }
+    },
+    "MBA": {
+      "academic_year": "2025-26",
+      "eligibility": "Bachelor's degree with 50% marks (45% for SC/ST)",
+      "entrance_exams": [
+        "CAT",
+        "MAT",
+        "XAT",
+        "State ICET"
+      ],
+      "selection_process": "Entrance exam + Group Discussion + Personal Interview"
+    }
+  },
+  "required_documents": [
+    "10th and 12th mark sheets and certificates",
+    "Transfer certificate from previous institution",
+    "Conduct certificate",
+    "Entrance exam scorecard (JEE/GATE/CAT etc.)",
+    "Category certificate (SC/ST/OBC if applicable)",
+    "Income certificate (for scholarships)",
+    "Passport size photographs (recent)",
+    "Aadhar card and PAN card",
+    "Medical fitness certificate",
+    "Migration certificate (for students from other boards)"
+  ]
+}

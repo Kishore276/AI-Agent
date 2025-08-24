@@ -1,0 +1,50 @@
+{
+  "undergraduate_fees": {
+    "B.Tech": {
+      "academic_year": "2025-26",
+      "tuition_fee_per_year": 250000,
+      "development_fee": 25000,
+      "lab_fee": 15000,
+      "library_fee": 5000,
+      "total_academic_fee": 295000,
+      "hostel_fee": 70000,
+      "mess_fee": 55000,
+      "total_with_hostel": 400000,
+      "note": "Fee structure for 2025-26 academic year"
+    }
+  },
+  "postgraduate_fees": {
+    "M.Tech": {
+      "academic_year": "2025-26",
+      "tuition_fee_per_year": 175000,
+      "development_fee": 17500,
+      "total_academic_fee": 192500,
+      "hostel_fee": 60000,
+      "mess_fee": 45000,
+      "total_with_hostel": 320000
+    },
+    "MBA": {
+      "academic_year": "2025-26",
+      "tuition_fee_per_year": 200000,
+      "development_fee": 20000,
+      "total_academic_fee": 220000,
+      "hostel_fee": 60000,
+      "mess_fee": 45000,
+      "total_with_hostel": 340000
+    }
+  },
+  "scholarships": {
+    "merit_scholarships": "25-100% fee waiver for top performers in JEE/EAMCET",
+    "need_based": "Complete fee waiver for family income below \u20b95 lakhs per annum",
+    "government_scholarships": "SC/ST/OBC scholarships as per government norms",
+    "girl_child_scholarships": "Special scholarships for girl students",
+    "sports_scholarships": "Fee concessions for outstanding sports achievements",
+    "updated": "August 2025"
+  },
+  "payment_options": {
+    "installments": "Fees can be paid in 2-4 installments per semester",
+    "education_loans": "Tie-ups with SBI, HDFC, ICICI, Axis Bank for education loans up to \u20b920 lakhs",
+    "online_payment": "Available through college portal and UPI",
+    "updated": "August 2025"
+  }
+}

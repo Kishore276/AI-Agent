@@ -1,0 +1,139 @@
+{
+  "ai_agent_faqs": {
+    "categories": {
+      "Admissions": [
+        {
+          "question": "What are the important dates for 2025 admission?",
+          "answer": "For Anurag Group of Institutions Ghatkesar 2025 admissions: Applications start in March 2025, deadline in May 2025. JEE Main sessions: January 24-February 1 and April 1-8, 2025. JEE Advanced: May 18, 2025. Counseling starts in June 2025, and classes begin in August 2025.",
+          "keywords": [
+            "admission",
+            "dates",
+            "2025",
+            "jee",
+            "counseling"
+          ]
+        },
+        {
+          "question": "What is the eligibility criteria?",
+          "answer": "For admission to Anurag Group of Institutions Ghatkesar, candidates must qualify JEE Main/Advanced (for IITs) or state entrance exams. Academic requirement: 75% in 12th (65% for SC/ST) with Physics, Chemistry, and Mathematics for premier institutes, 60% for others. Age limit: 17-25 years (30 for SC/ST/PwD).",
+          "keywords": [
+            "eligibility",
+            "criteria",
+            "jee",
+            "12th",
+            "percentage"
+          ]
+        }
+      ],
+      "Academics": [
+        {
+          "question": "What courses are offered?",
+          "answer": "Anurag Group of Institutions Ghatkesar offers comprehensive undergraduate programs including B.Tech in Computer Science Engineering, Electronics & Communication Engineering, Mechanical Engineering, Civil Engineering, Electrical Engineering, and Information Technology. The college also provides M.Tech and MBA programs.",
+          "keywords": [
+            "courses",
+            "offered",
+            "programs",
+            "b.tech"
+          ]
+        },
+        {
+          "question": "What is the attendance requirement?",
+          "answer": "Anurag Group of Institutions Ghatkesar typically requires a minimum attendance of 75% in all subjects as per university norms. Students with less than 75% attendance may not be allowed to appear for semester examinations. Medical leave and other genuine reasons are considered for attendance shortage with proper documentation.",
+          "keywords": [
+            "attendance",
+            "requirement",
+            "75%"
+          ]
+        }
+      ],
+      "Placements": [
+        {
+          "question": "Which companies visit for placements?",
+          "answer": "Anurag Group of Institutions Ghatkesar has established partnerships with companies including TCS, Infosys, Wipro, Accenture, Cognizant, HCL Technologies, Tech Mahindra, Capgemini, IBM, L&T Infotech, Mindtree, Mphasis, DXC Technology, and various regional IT and engineering companies.",
+          "keywords": [
+            "companies",
+            "visit",
+            "placements",
+            "recruiters"
+          ]
+        },
+        {
+          "question": "What is the average package offered?",
+          "answer": "The average package at Anurag Group of Institutions Ghatkesar ranges from \u20b94-6 LPA with median around \u20b94.5 LPA. Mass recruiters offer \u20b93.5-6 LPA while specialized companies provide \u20b96-15 LPA. The highest package for 2024 was \u20b915 LPA.",
+          "keywords": [
+            "average",
+            "package",
+            "salary",
+            "offered"
+          ]
+        },
+        {
+          "question": "What is the placement percentage?",
+          "answer": "Anurag Group of Institutions Ghatkesar maintains excellent placement records with 95% placement rate for IITs, 90% for NITs, and 80% for other colleges. The placement cell provides comprehensive training including resume building, mock interviews, aptitude training, and soft skills development.",
+          "keywords": [
+            "placement",
+            "percentage",
+            "rate",
+            "statistics"
+          ]
+        }
+      ],
+      "Infrastructure": [
+        {
+          "question": "What are the library facilities?",
+          "answer": "Anurag Group of Institutions Ghatkesar has a well-equipped central library with over 50,000 books, journals, and digital resources. It provides extended hours during exams, high-speed internet, reading halls, group study rooms, online databases including IEEE, ACM, and Springer, and library staff assistance for research and reference materials.",
+          "keywords": [
+            "library",
+            "facilities",
+            "books",
+            "digital"
+          ]
+        },
+        {
+          "question": "What are the laboratory facilities?",
+          "answer": "Anurag Group of Institutions Ghatkesar has state-of-the-art laboratories for all engineering branches including Computer Programming Labs with latest software, Electronics & Communication Labs with modern equipment, Mechanical Engineering Workshops, Civil Engineering Labs, and specialized research laboratories with modern equipment and safety protocols.",
+          "keywords": [
+            "laboratory",
+            "facilities",
+            "labs",
+            "equipment"
+          ]
+        }
+      ],
+      "Fees": [
+        {
+          "question": "What is the fee structure for 2025-26?",
+          "answer": "The annual fee at Anurag Group of Institutions Ghatkesar for 2025-26 is approximately \u20b9180,000 (tuition) + \u20b9150,000 (hostel & mess) = \u20b9360,000 total per year. Merit scholarships and education loans are available. Fee concessions available for economically weaker sections.",
+          "keywords": [
+            "fee",
+            "structure",
+            "cost",
+            "tuition",
+            "2025-26"
+          ]
+        },
+        {
+          "question": "Are scholarships available?",
+          "answer": "Anurag Group of Institutions Ghatkesar offers various scholarships including merit-based scholarships for top performers (25-100% fee waiver), need-based scholarships for economically weaker sections (complete fee waiver), government scholarships for SC/ST/OBC students, girl child scholarships, sports scholarships, and external scholarships like Inspire and KVPY.",
+          "keywords": [
+            "scholarships",
+            "financial",
+            "aid",
+            "merit",
+            "need-based"
+          ]
+        }
+      ]
+    }
+  },
+  "frequently_asked_questions": {
+    "General": [
+      {
+        "question": "Where is the college located?",
+        "answer": "Anurag Group of Institutions Ghatkesar is located in Andhra Pradesh, India, with good connectivity to major transportation hubs and urban amenities."
+      }
+    ]
+  },
+  "last_updated": "August 2025",
+  "academic_year": "2025-26"
+}

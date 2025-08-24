@@ -1,0 +1,69 @@
+{
+  "undergraduate_admission": {
+    "B.Tech": {
+      "academic_year": "2025-26",
+      "eligibility": {
+        "academic": "60% in 12th with PCM",
+        "entrance_exams": [
+          "JEE Main",
+          "State CET"
+        ],
+        "age_limit": "17-25 years (30 for SC/ST/PwD)"
+      },
+      "important_dates": {
+        "application_start": "March 2025",
+        "application_deadline": "May 2025",
+        "jee_main_session1": "January 24-February 1, 2025",
+        "jee_main_session2": "April 1-8, 2025",
+        "jee_advanced": "Not applicable",
+        "counseling_start": "June 2025",
+        "classes_start": "August 2025"
+      },
+      "selection_process": {
+        "step1": "Entrance exam qualification",
+        "step2": "Counseling participation",
+        "step3": "Document verification",
+        "step4": "Fee payment and admission confirmation"
+      }
+    }
+  },
+  "postgraduate_admission": {
+    "M.Tech": {
+      "academic_year": "2025-26",
+      "eligibility": "B.Tech/B.E. with 60% marks (55% for SC/ST)",
+      "entrance_exams": [
+        "GATE",
+        "State PGECET"
+      ],
+      "important_dates": {
+        "gate_exam": "February 3-4, 10-11, 2025",
+        "application_start": "March 2025",
+        "counseling": "June-July 2025"
+      }
+    },
+    "MBA": {
+      "academic_year": "2025-26",
+      "eligibility": "Bachelor's degree with 50% marks (45% for SC/ST)",
+      "entrance_exams": [
+        "CAT",
+        "MAT",
+        "XAT",
+        "State ICET"
+      ],
+      "selection_process": "Entrance exam + Group Discussion + Personal Interview"
+    }
+  },
+  "required_documents": [
+    "10th and 12th mark sheets and certificates",
+    "Transfer certificate from previous institution",
+    "Conduct certificate",
+    "Entrance exam scorecard (JEE/GATE/CAT etc.)",
+    "Category certificate (SC/ST/OBC if applicable)",
+    "Income certificate (for scholarships)",
+    "Passport size photographs (recent)",
+    "Aadhar card and PAN card",
+    "Medical fitness certificate",
+    "Migration certificate (for students from other boards)"
+  ],
+  "last_updated": "August 2025"
+}

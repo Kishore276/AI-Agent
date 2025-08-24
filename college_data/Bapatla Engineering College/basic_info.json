@@ -1,0 +1,17 @@
+{
+  "college_name": "Bapatla Engineering College",
+  "location": "Ongole",
+  "state": "Andhra Pradesh",
+  "established_year": 1999,
+  "college_type": "Private",
+  "affiliation": "JNTUA (Jawaharlal Nehru Technological University Anantapur)",
+  "approval": "AICTE Approved",
+  "accreditation": "NBA Accredited",
+  "campus_area": "50+ acres",
+  "website": "www.bapatlaengineeringcollege.edu.in",
+  "contact": {
+    "phone": "+91-XXXXXXXXXX",
+    "email": "info@bapatlaengineeringcollege.edu.in",
+    "address": "Bapatla Engineering College, Andhra Pradesh, India"
+  }
+}

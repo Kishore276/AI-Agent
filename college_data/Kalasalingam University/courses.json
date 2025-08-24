@@ -1,0 +1,184 @@
+{
+  "undergraduate_programs": {
+    "engineering": {
+      "btech": {
+        "duration": "4 years",
+        "total_semesters": 8,
+        "eligibility": "10+2 with Physics, Chemistry, Mathematics (60% minimum)",
+        "admission_process": ["KUEE", "JEE Main", "Management Quota"],
+        "departments": [
+          {
+            "name": "Computer Science and Engineering",
+            "code": "CSE",
+            "specializations": [
+              "Artificial Intelligence and Machine Learning",
+              "Data Science",
+              "Cyber Security",
+              "Cloud Computing",
+              "Internet of Things",
+              "Blockchain Technology"
+            ],
+            "intake": 240,
+            "faculty_count": 45,
+            "labs": ["AI Lab", "Data Science Lab", "Cyber Security Lab", "Cloud Computing Lab"]
+          },
+          {
+            "name": "Electronics and Communication Engineering",
+            "code": "ECE",
+            "specializations": [
+              "VLSI Design",
+              "Embedded Systems",
+              "Signal Processing",
+              "Communication Systems"
+            ],
+            "intake": 180,
+            "faculty_count": 35,
+            "labs": ["VLSI Lab", "Communication Lab", "Microprocessor Lab"]
+          },
+          {
+            "name": "Mechanical Engineering",
+            "code": "MECH",
+            "specializations": [
+              "Thermal Engineering",
+              "Design and Manufacturing",
+              "Automobile Engineering",
+              "Robotics and Automation"
+            ],
+            "intake": 120,
+            "faculty_count": 28,
+            "labs": ["CAD Lab", "Manufacturing Lab", "Thermal Lab"]
+          },
+          {
+            "name": "Civil Engineering",
+            "code": "CIVIL",
+            "specializations": [
+              "Structural Engineering",
+              "Environmental Engineering",
+              "Transportation Engineering",
+              "Geotechnical Engineering"
+            ],
+            "intake": 60,
+            "faculty_count": 20,
+            "labs": ["Structural Lab", "Environmental Lab", "Survey Lab"]
+          },
+          {
+            "name": "Electrical and Electronics Engineering",
+            "code": "EEE",
+            "specializations": [
+              "Power Systems",
+              "Control Systems",
+              "Renewable Energy",
+              "Electric Vehicles"
+            ],
+            "intake": 60,
+            "faculty_count": 22,
+            "labs": ["Power Systems Lab", "Control Systems Lab", "Machines Lab"]
+          }
+        ]
+      }
+    },
+    "arts_and_science": {
+      "bsc": {
+        "duration": "3 years",
+        "programs": [
+          {
+            "name": "Computer Science",
+            "intake": 60,
+            "eligibility": "10+2 with Mathematics"
+          },
+          {
+            "name": "Information Technology",
+            "intake": 60,
+            "eligibility": "10+2 with Mathematics"
+          },
+          {
+            "name": "Physics",
+            "intake": 30,
+            "eligibility": "10+2 with Physics, Chemistry, Mathematics"
+          },
+          {
+            "name": "Chemistry",
+            "intake": 30,
+            "eligibility": "10+2 with Physics, Chemistry, Mathematics"
+          },
+          {
+            "name": "Mathematics",
+            "intake": 30,
+            "eligibility": "10+2 with Mathematics"
+          }
+        ]
+      },
+      "bcom": {
+        "duration": "3 years",
+        "programs": [
+          {
+            "name": "Commerce",
+            "intake": 60,
+            "eligibility": "10+2 in any stream"
+          },
+          {
+            "name": "Commerce with Computer Applications",
+            "intake": 60,
+            "eligibility": "10+2 in any stream"
+          }
+        ]
+      },
+      "bba": {
+        "duration": "3 years",
+        "programs": [
+          {
+            "name": "Business Administration",
+            "intake": 60,
+            "eligibility": "10+2 in any stream"
+          }
+        ]
+      }
+    }
+  },
+  "postgraduate_programs": {
+    "mtech": {
+      "duration": "2 years",
+      "programs": [
+        {
+          "name": "Computer Science and Engineering",
+          "specializations": ["AI & ML", "Data Science", "Cyber Security"],
+          "intake": 30
+        },
+        {
+          "name": "Electronics and Communication Engineering",
+          "specializations": ["VLSI", "Embedded Systems"],
+          "intake": 18
+        }
+      ]
+    },
+    "mba": {
+      "duration": "2 years",
+      "specializations": ["Finance", "Marketing", "HR", "Operations"],
+      "intake": 60
+    },
+    "msc": {
+      "duration": "2 years",
+      "programs": [
+        {
+          "name": "Computer Science",
+          "intake": 30
+        },
+        {
+          "name": "Data Science",
+          "intake": 30
+        }
+      ]
+    }
+  },
+  "doctoral_programs": {
+    "phd": {
+      "duration": "3-6 years",
+      "areas": [
+        "Engineering",
+        "Science",
+        "Management",
+        "Humanities"
+      ]
+    }
+  }
+}

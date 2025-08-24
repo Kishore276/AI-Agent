@@ -1,0 +1,233 @@
+{
+  "academic_facilities": {
+    "libraries": {
+      "central_library": {
+        "name": "Dr. A.P.J. Abdul Kalam Central Library",
+        "area_sqft": 50000,
+        "books": 250000,
+        "journals": 500,
+        "e_books": 100000,
+        "digital_resources": ["IEEE Xplore", "Springer", "Elsevier", "ACM Digital Library"],
+        "seating_capacity": 800,
+        "working_hours": "24x7",
+        "facilities": ["Wi-Fi", "Air Conditioning", "Group Study Rooms", "Silent Zones"]
+      },
+      "departmental_libraries": {
+        "count": 8,
+        "specialized_collections": true
+      }
+    },
+    "laboratories": {
+      "total_labs": 120,
+      "computer_labs": 25,
+      "engineering_labs": 60,
+      "science_labs": 20,
+      "language_labs": 5,
+      "specialized_labs": [
+        {
+          "name": "AI & Machine Learning Lab",
+          "equipment": ["High-end GPUs", "Workstations", "Cloud Access"],
+          "software": ["TensorFlow", "PyTorch", "MATLAB", "R"]
+        },
+        {
+          "name": "Robotics Lab",
+          "equipment": ["Industrial Robots", "Humanoid Robots", "Drone Systems"],
+          "partnerships": ["ABB", "KUKA"]
+        },
+        {
+          "name": "IoT Lab",
+          "equipment": ["Sensor Kits", "Microcontrollers", "Development Boards"],
+          "platforms": ["Arduino", "Raspberry Pi", "ESP32"]
+        },
+        {
+          "name": "Cyber Security Lab",
+          "equipment": ["Penetration Testing Tools", "Network Analyzers"],
+          "software": ["Kali Linux", "Wireshark", "Metasploit"]
+        }
+      ]
+    },
+    "classrooms": {
+      "total_classrooms": 150,
+      "smart_classrooms": 100,
+      "lecture_halls": 20,
+      "seminar_halls": 15,
+      "features": ["Projectors", "Audio Systems", "Wi-Fi", "Air Conditioning"]
+    }
+  },
+  "hostel_facilities": {
+    "boys_hostels": {
+      "count": 8,
+      "total_capacity": 3000,
+      "room_types": ["Single", "Double Sharing", "Triple Sharing"],
+      "amenities": [
+        "24x7 Wi-Fi",
+        "Laundry Service",
+        "Common Room with TV",
+        "Reading Room",
+        "Gym",
+        "Indoor Games",
+        "24x7 Security",
+        "CCTV Surveillance"
+      ]
+    },
+    "girls_hostels": {
+      "count": 6,
+      "total_capacity": 2000,
+      "room_types": ["Single", "Double Sharing", "Triple Sharing"],
+      "amenities": [
+        "24x7 Wi-Fi",
+        "Laundry Service",
+        "Common Room with TV",
+        "Reading Room",
+        "Gym",
+        "Indoor Games",
+        "24x7 Security",
+        "CCTV Surveillance",
+        "Lady Warden"
+      ]
+    },
+    "mess_facilities": {
+      "dining_halls": 4,
+      "seating_capacity": 2000,
+      "meal_types": ["Vegetarian", "Non-Vegetarian", "Jain Food"],
+      "meal_timings": {
+        "breakfast": "7:00 AM - 9:30 AM",
+        "lunch": "12:00 PM - 2:30 PM",
+        "snacks": "5:00 PM - 6:00 PM",
+        "dinner": "7:00 PM - 10:00 PM"
+      },
+      "special_features": ["Hygienic Kitchen", "RO Water", "Variety Menu"]
+    }
+  },
+  "sports_facilities": {
+    "outdoor_sports": {
+      "cricket_ground": {
+        "count": 2,
+        "features": ["Floodlights", "Pavilion"]
+      },
+      "football_field": {
+        "count": 1,
+        "type": "FIFA Standard"
+      },
+      "basketball_courts": {
+        "count": 4,
+        "surface": "Synthetic"
+      },
+      "tennis_courts": {
+        "count": 4,
+        "surface": "Hard Court"
+      },
+      "volleyball_courts": {
+        "count": 3
+      },
+      "badminton_courts": {
+        "count": 6,
+        "indoor": true
+      },
+      "athletics_track": {
+        "type": "400m Synthetic Track",
+        "facilities": ["Long Jump", "High Jump", "Shot Put"]
+      }
+    },
+    "indoor_sports": {
+      "indoor_stadium": {
+        "area_sqft": 15000,
+        "sports": ["Badminton", "Table Tennis", "Chess", "Carrom"]
+      },
+      "gymnasium": {
+        "area_sqft": 5000,
+        "equipment": ["Cardio Machines", "Weight Training", "Functional Training"]
+      },
+      "swimming_pool": {
+        "type": "Olympic Size",
+        "features": ["Changing Rooms", "Shower Facilities"]
+      }
+    }
+  },
+  "medical_facilities": {
+    "health_center": {
+      "type": "24x7 Medical Center",
+      "staff": ["Doctors", "Nurses", "Pharmacist"],
+      "services": ["Emergency Care", "General Consultation", "Pharmacy"],
+      "ambulance": "Available 24x7"
+    },
+    "tie_ups": [
+      "Apollo Hospitals",
+      "Fortis Healthcare",
+      "Local Government Hospital"
+    ]
+  },
+  "transportation": {
+    "bus_service": {
+      "routes": 25,
+      "buses": 40,
+      "coverage": ["Virudhunagar", "Madurai", "Tirunelveli", "Tenkasi"],
+      "features": ["GPS Tracking", "CCTV", "First Aid Kit"]
+    },
+    "railway_connectivity": {
+      "nearest_station": "Virudhunagar Junction",
+      "distance_km": 15,
+      "shuttle_service": "Available"
+    },
+    "airport_connectivity": {
+      "nearest_airport": "Madurai Airport",
+      "distance_km": 80,
+      "travel_time": "1.5 hours"
+    }
+  },
+  "other_facilities": {
+    "banking": {
+      "banks": ["SBI", "Canara Bank", "ICICI Bank"],
+      "atms": 5,
+      "services": ["Account Opening", "Loan Processing"]
+    },
+    "shopping": {
+      "stores": ["Stationery", "Clothing", "Electronics", "Groceries"],
+      "food_courts": 3
+    },
+    "communication": {
+      "post_office": "On Campus",
+      "courier_services": "Available",
+      "internet": "High Speed Wi-Fi Campus Wide"
+    },
+    "security": {
+      "type": "24x7 Security",
+      "features": ["CCTV Surveillance", "Access Control", "Security Personnel"],
+      "emergency_helpline": "+91-4626-251999"
+    }
+  },
+  "placement_facilities": {
+    "placement_cell": {
+      "name": "Career Development Center",
+      "staff": 15,
+      "services": ["Career Counseling", "Resume Building", "Interview Preparation", "Skill Development"]
+    },
+    "training_programs": [
+      "Soft Skills Training",
+      "Technical Training",
+      "Aptitude Training",
+      "Communication Skills",
+      "Leadership Development"
+    ],
+    "industry_partnerships": [
+      "TCS", "Infosys", "Wipro", "Cognizant", "Accenture", "IBM", "Microsoft", "Google", "Amazon"
+    ]
+  },
+  "research_facilities": {
+    "research_centers": [
+      {
+        "name": "Center for Artificial Intelligence",
+        "focus_areas": ["Machine Learning", "Deep Learning", "Computer Vision"]
+      },
+      {
+        "name": "Center for Renewable Energy",
+        "focus_areas": ["Solar Energy", "Wind Energy", "Energy Storage"]
+      },
+      {
+        "name": "Center for Biotechnology",
+        "focus_areas": ["Genetic Engineering", "Bioinformatics", "Drug Discovery"]
+      }
+    ],
+    "funding_agencies": ["DST", "CSIR", "DRDO", "ISRO", "UGC"]
+  }
+}

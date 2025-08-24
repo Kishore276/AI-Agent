@@ -1,0 +1,17 @@
+{
+  "college_name": "IIIT Sri City",
+  "location": "Andhra Pradesh",
+  "state": "Andhra Pradesh",
+  "established_year": 2004,
+  "college_type": "Private",
+  "affiliation": "JNTUA (Jawaharlal Nehru Technological University Anantapur)",
+  "approval": "AICTE Approved",
+  "accreditation": "NBA Accredited",
+  "campus_area": "50+ acres",
+  "website": "www.iiitsricity.edu.in",
+  "contact": {
+    "phone": "+91-XXXXXXXXXX",
+    "email": "info@iiitsricity.edu.in",
+    "address": "IIIT Sri City, Andhra Pradesh, India"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "undergraduate_programs": {
+    "btech": {
+      "duration": "4 years",
+      "total_semesters": 8,
+      "eligibility": "JEE Advanced qualified candidates",
+      "admission_process": ["JEE Advanced", "JoSAA Counseling"],
+      "departments": [
+        {
+          "name": "Computer Science and Engineering",
+          "code": "CSE",
+          "intake": 120,
+          "specializations": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Cybersecurity",
+            "Software Engineering",
+            "Computer Networks"
+          ],
+          "faculty_count": 45,
+          "research_areas": ["AI/ML", "Computer Vision", "NLP", "Robotics", "HCI"]
+        },
+        {
+          "name": "Electrical Engineering",
+          "code": "EE",
+          "intake": 120,
+          "specializations": [
+            "Power Systems",
+            "Electronics",
+            "Communication Systems",
+            "Control Systems",
+            "VLSI Design"
+          ],
+          "faculty_count": 50,
+          "research_areas": ["Power Electronics", "Signal Processing", "Renewable Energy"]
+        },
+        {
+          "name": "Mechanical Engineering",
+          "code": "ME",
+          "intake": 120,
+          "specializations": [
+            "Thermal Engineering",
+            "Design and Manufacturing",
+            "Robotics and Automation",
+            "Materials Science"
+          ],
+          "faculty_count": 48,
+          "research_areas": ["Robotics", "Manufacturing", "Thermal Sciences"]
+        },
+        {
+          "name": "Civil Engineering",
+          "code": "CE",
+          "intake": 90,
+          "specializations": [
+            "Structural Engineering",
+            "Environmental Engineering",
+            "Transportation Engineering",
+            "Geotechnical Engineering",
+            "Water Resources"
+          ],
+          "faculty_count": 40,
+          "research_areas": ["Smart Cities", "Sustainable Construction", "Earthquake Engineering"]
+        },
+        {
+          "name": "Chemical Engineering",
+          "code": "CH",
+          "intake": 90,
+          "specializations": [
+            "Process Engineering",
+            "Biochemical Engineering",
+            "Environmental Engineering",
+            "Materials Engineering"
+          ],
+          "faculty_count": 35,
+          "research_areas": ["Process Optimization", "Green Chemistry", "Nanotechnology"]
+        },
+        {
+          "name": "Engineering Physics",
+          "code": "EP",
+          "intake": 30,
+          "specializations": [
+            "Quantum Physics",
+            "Photonics",
+            "Materials Physics",
+            "Computational Physics"
+          ],
+          "faculty_count": 25,
+          "research_areas": ["Quantum Computing", "Photonics", "Condensed Matter"]
+        },
+        {
+          "name": "Production and Industrial Engineering",
+          "code": "PIE",
+          "intake": 60,
+          "specializations": [
+            "Operations Research",
+            "Supply Chain Management",
+            "Quality Engineering",
+            "Industrial Automation"
+          ],
+          "faculty_count": 30,
+          "research_areas": ["Industry 4.0", "Operations Research", "Quality Management"]
+        },
+        {
+          "name": "Textile Technology",
+          "code": "TT",
+          "intake": 30,
+          "specializations": [
+            "Fiber Science",
+            "Textile Chemistry",
+            "Fashion Technology",
+            "Technical Textiles"
+          ],
+          "faculty_count": 20,
+          "research_areas": ["Smart Textiles", "Sustainable Textiles", "Nanotextiles"]
+        }
+      ]
+    },
+    "dual_degree": {
+      "duration": "5 years",
+      "programs": [
+        {
+          "name": "B.Tech + M.Tech in Computer Science",
+          "intake": 20,
+          "specialization": "Various CS specializations"
+        },
+        {
+          "name": "B.Tech + M.Tech in Electrical Engineering", 
+          "intake": 15,
+          "specialization": "Power Systems, Electronics"
+        }
+      ]
+    }
+  },
+  "postgraduate_programs": {
+    "mtech": {
+      "duration": "2 years",
+      "admission": "GATE + Interview",
+      "programs": [
+        {
+          "name": "Computer Science and Engineering",
+          "specializations": ["AI", "Cybersecurity", "Software Engineering", "Data Analytics"],
+          "intake": 80
+        },
+        {
+          "name": "Electrical Engineering",
+          "specializations": ["Power Systems", "VLSI", "Communication", "Control Systems"],
+          "intake": 70
+        },
+        {
+          "name": "Mechanical Engineering",
+          "specializations": ["Thermal", "Design", "Manufacturing", "Robotics"],
+          "intake": 60
+        },
+        {
+          "name": "Civil Engineering",
+          "specializations": ["Structural", "Environmental", "Transportation", "Geotechnical"],
+          "intake": 50
+        }
+      ]
+    },
+    "msc": {
+      "duration": "2 years",
+      "programs": [
+        {
+          "name": "Physics",
+          "intake": 25,
+          "specializations": ["Condensed Matter", "High Energy Physics", "Optics"]
+        },
+        {
+          "name": "Chemistry",
+          "intake": 25,
+          "specializations": ["Organic", "Inorganic", "Physical Chemistry"]
+        },
+        {
+          "name": "Mathematics",
+          "intake": 20,
+          "specializations": ["Applied Mathematics", "Pure Mathematics"]
+        }
+      ]
+    },
+    "mba": {
+      "duration": "2 years",
+      "program": "Department of Management Studies",
+      "intake": 90,
+      "specializations": ["Finance", "Marketing", "Operations", "Strategy", "Technology Management"]
+    }
+  },
+  "doctoral_programs": {
+    "phd": {
+      "duration": "4-6 years",
+      "admission": "Written Test + Interview",
+      "areas": [
+        "All Engineering Disciplines",
+        "Sciences",
+        "Management",
+        "Humanities and Social Sciences"
+      ],
+      "annual_intake": 400
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "academic_facilities": {
+    "libraries": {
+      "central_library": {
+        "books": "50,000+",
+        "journals": "200+",
+        "digital_resources": "IEEE, ACM, Springer",
+        "seating_capacity": 300,
+        "working_hours": "8:00 AM - 10:00 PM"
+      }
+    },
+    "laboratories": {
+      "computer_labs": 8,
+      "electronics_labs": 6,
+      "mechanical_workshops": 4,
+      "civil_labs": 3,
+      "language_lab": 1,
+      "total_labs": 22
+    },
+    "classrooms": {
+      "smart_classrooms": 40,
+      "seminar_halls": 4,
+      "auditorium": 1,
+      "conference_rooms": 2
+    }
+  },
+  "residential_facilities": {
+    "hostels": {
+      "boys_hostels": 2,
+      "girls_hostels": 2,
+      "total_capacity": 1200,
+      "mess_facilities": "Vegetarian and Non-vegetarian",
+      "amenities": [
+        "Wi-Fi",
+        "Laundry",
+        "Recreation Room",
+        "Study Hall"
+      ]
+    }
+  },
+  "sports_facilities": {
+    "outdoor_sports": [
+      "Cricket",
+      "Football",
+      "Basketball",
+      "Tennis",
+      "Volleyball"
+    ],
+    "indoor_sports": [
+      "Table Tennis",
+      "Badminton",
+      "Chess",
+      "Carrom"
+    ],
+    "gymnasium": "Fully equipped with modern equipment",
+    "swimming_pool": "Available"
+  },
+  "other_facilities": {
+    "medical_center": "24/7 medical facility with qualified doctors",
+    "transportation": "Bus services from major locations",
+    "cafeteria": "Multiple food courts and cafeterias",
+    "banking": "ATM and bank branch on campus",
+    "wifi": "High-speed Wi-Fi across campus"
+  }
+}

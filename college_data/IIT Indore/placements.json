@@ -1,0 +1,118 @@
+{
+  "placement_statistics": {
+    "2024": {
+      "total_students": 1200,
+      "students_placed": 1140,
+      "placement_percentage": 95,
+      "highest_package": 20000000,
+      "average_package": 1800000,
+      "median_package": 1500000
+    },
+    "2023": {
+      "total_students": 1150,
+      "students_placed": 1080,
+      "placement_percentage": 94,
+      "highest_package": 18000000,
+      "average_package": 1650000,
+      "median_package": 1400000
+    }
+  },
+  "department_wise_placements": {
+    "computer_science": {
+      "placement_percentage": 95,
+      "average_package": 22.5,
+      "top_recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "electronics_communication": {
+      "placement_percentage": 90,
+      "average_package": 18.0,
+      "top_recruiters": [
+        "Intel",
+        "Qualcomm",
+        "Samsung",
+        "Wipro"
+      ]
+    }
+  },
+  "top_recruiters": [
+    "Google",
+    "Microsoft",
+    "Amazon",
+    "Apple",
+    "Goldman Sachs",
+    "McKinsey & Company",
+    "Boston Consulting Group",
+    "Facebook (Meta)",
+    "Netflix",
+    "Adobe",
+    "Intel",
+    "NVIDIA",
+    "Qualcomm",
+    "Samsung",
+    "Uber",
+    "Tesla",
+    "SpaceX",
+    "JP Morgan",
+    "Deutsche Bank"
+  ],
+  "alumni_network": {
+    "total_alumni": 30000,
+    "countries": 50
+  },
+  "ai_placement_guidance": {
+    "preparation_timeline": {
+      "2nd_year": [
+        "Focus on academics",
+        "Learn programming",
+        "Join coding clubs"
+      ],
+      "3rd_year": [
+        "Start competitive programming",
+        "Do internships",
+        "Build projects"
+      ],
+      "4th_year": [
+        "Prepare for interviews",
+        "Update resume",
+        "Practice aptitude"
+      ]
+    },
+    "skill_requirements": {
+      "technical_skills": [
+        "Programming",
+        "Data Structures",
+        "Algorithms",
+        "System Design"
+      ],
+      "soft_skills": [
+        "Communication",
+        "Problem Solving",
+        "Teamwork",
+        "Leadership"
+      ],
+      "domain_specific": [
+        "Web Development",
+        "Mobile Apps",
+        "AI/ML",
+        "Cloud Computing"
+      ]
+    },
+    "interview_process": {
+      "rounds": [
+        "Online Test",
+        "Technical Interview",
+        "HR Interview"
+      ],
+      "duration": "2-4 hours",
+      "preparation_time": "3-6 months"
+    }
+  },
+  "last_updated": "August 2025",
+  "academic_year": "2024-25"
+}

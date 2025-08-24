@@ -1,0 +1,17 @@
+{
+  "college_name": "Ramachandra College of Engineering",
+  "location": "Andhra Pradesh",
+  "state": "Andhra Pradesh",
+  "established_year": 1997,
+  "college_type": "Private",
+  "affiliation": "JNTUA (Jawaharlal Nehru Technological University Anantapur)",
+  "approval": "AICTE Approved",
+  "accreditation": "NBA Accredited",
+  "campus_area": "50+ acres",
+  "website": "www.ramachandracollegeofengineering.edu.in",
+  "contact": {
+    "phone": "+91-XXXXXXXXXX",
+    "email": "info@ramachandracollegeofengineering.edu.in",
+    "address": "Ramachandra College of Engineering, Andhra Pradesh, India"
+  }
+}

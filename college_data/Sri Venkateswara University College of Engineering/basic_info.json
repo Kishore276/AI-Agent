@@ -1,0 +1,17 @@
+{
+  "college_name": "Sri Venkateswara University College of Engineering",
+  "location": "Tirupati",
+  "state": "Andhra Pradesh",
+  "established_year": 2000,
+  "college_type": "Private",
+  "affiliation": "Sri Venkateswara University",
+  "approval": "AICTE Approved",
+  "accreditation": "NBA Accredited",
+  "campus_area": "50+ acres",
+  "website": "www.srivenkateswarauniversitycollegeofengineering.edu.in",
+  "contact": {
+    "phone": "+91-XXXXXXXXXX",
+    "email": "info@srivenkateswarauniversitycollegeofengineering.edu.in",
+    "address": "Sri Venkateswara University College of Engineering, Andhra Pradesh, India"
+  }
+}

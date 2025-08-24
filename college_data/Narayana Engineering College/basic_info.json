@@ -1,0 +1,17 @@
+{
+  "college_name": "Narayana Engineering College",
+  "location": "Andhra Pradesh",
+  "state": "Andhra Pradesh",
+  "established_year": 1998,
+  "college_type": "Private",
+  "affiliation": "JNTUA (Jawaharlal Nehru Technological University Anantapur)",
+  "approval": "AICTE Approved",
+  "accreditation": "NBA Accredited",
+  "campus_area": "50+ acres",
+  "website": "www.narayanaengineeringcollege.edu.in",
+  "contact": {
+    "phone": "+91-XXXXXXXXXX",
+    "email": "info@narayanaengineeringcollege.edu.in",
+    "address": "Narayana Engineering College, Andhra Pradesh, India"
+  }
+}

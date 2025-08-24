@@ -1,0 +1,17 @@
+{
+  "college_name": "Aditya Engineering College",
+  "location": "Andhra Pradesh",
+  "state": "Andhra Pradesh",
+  "established_year": 1997,
+  "college_type": "Private",
+  "affiliation": "JNTUA (Jawaharlal Nehru Technological University Anantapur)",
+  "approval": "AICTE Approved",
+  "accreditation": "NBA Accredited",
+  "campus_area": "50+ acres",
+  "website": "www.adityaengineeringcollege.edu.in",
+  "contact": {
+    "phone": "+91-XXXXXXXXXX",
+    "email": "info@adityaengineeringcollege.edu.in",
+    "address": "Aditya Engineering College, Andhra Pradesh, India"
+  }
+}

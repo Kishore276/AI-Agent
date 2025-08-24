@@ -1,0 +1,1280 @@
+{
+  "frequently_asked_questions": {
+    "admission_related": [
+      {
+        "question": "What is the eligibility for KL University?",
+        "answer": "For admission to KL University, candidates must qualify JEE Main or state-level entrance exams. Academic requirement: Minimum 60% in 12th with Physics, Chemistry, and Mathematics."
+      }
+    ],
+    "fee_related": [
+      {
+        "question": "What are the fees at KL University?",
+        "answer": "The annual fee at KL University for 2025-26 is approximately \u20b93,00,000 (tuition) + \u20b91,30,000 (hostel & mess) = \u20b94,30,000 total per year. Merit scholarships and education loans available."
+      }
+    ],
+    "placement_related": [
+      {
+        "question": "What is the placement record of KL University?",
+        "answer": "KL University has established partnerships with companies including TCS, Infosys, Wipro, Accenture, Cognizant, HCL Technologies, Tech Mahindra, Capgemini, IBM, L&T Infotech, Mindtree, Mphasis, DXC Technology, and various regional IT and engineering companies."
+      }
+    ]
+  },
+  "ai_agent_faqs": {
+    "last_updated": "2025-08-15",
+    "total_questions": 103,
+    "categories": {
+      "admission_related": [
+        {
+          "question": "What is the eligibility criteria for admission?",
+          "answer": "For admission to KL University, candidates must qualify JEE Main or state-level entrance exams. Academic requirement: Minimum 60% in 12th with Physics, Chemistry, and Mathematics.",
+          "keywords": [
+            "eligibility",
+            "criteria",
+            "for",
+            "admission"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What entrance exams are accepted?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "entrance",
+            "exams",
+            "accepted"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the application process?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "application",
+            "process"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the important admission dates?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "important",
+            "admission",
+            "dates"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What documents are required for admission?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "documents",
+            "required",
+            "for",
+            "admission"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the seat matrix and reservation policy?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "seat",
+            "matrix",
+            "and",
+            "reservation",
+            "policy"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the cutoff ranks for different branches?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "cutoff",
+            "ranks",
+            "for",
+            "different",
+            "branches"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Is there any management quota or NRI quota?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "management",
+            "quota",
+            "nri",
+            "quota"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the counseling process?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "counseling",
+            "process"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Can I get admission through lateral entry?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "get",
+            "admission",
+            "through",
+            "lateral",
+            "entry"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the minimum percentage required in 12th?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "minimum",
+            "percentage",
+            "required",
+            "12th"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any age restrictions for admission?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "age",
+            "restrictions",
+            "for",
+            "admission"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the admission process for foreign nationals?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "admission",
+            "process",
+            "for",
+            "foreign",
+            "nationals"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Can I change my branch after admission?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "change",
+            "branch",
+            "after",
+            "admission"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What happens if I miss the counseling rounds?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "happens",
+            "miss",
+            "counseling",
+            "rounds"
+          ],
+          "category": "admission_related",
+          "confidence_score": 0.95
+        }
+      ],
+      "fee_related": [
+        {
+          "question": "What is the complete fee structure?",
+          "answer": "The annual fee at KL University for 2025-26 is approximately \u20b93,00,000 (tuition) + \u20b91,30,000 (hostel & mess) = \u20b94,30,000 total per year. Merit scholarships and education loans available.",
+          "keywords": [
+            "complete",
+            "fee",
+            "structure"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the hostel and mess charges?",
+          "answer": "The annual fee at KL University for 2025-26 is approximately \u20b93,00,000 (tuition) + \u20b91,30,000 (hostel & mess) = \u20b94,30,000 total per year. Merit scholarships and education loans available.",
+          "keywords": [
+            "hostel",
+            "and",
+            "mess",
+            "charges"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any additional fees or hidden costs?",
+          "answer": "The annual fee at KL University for 2025-26 is approximately \u20b93,00,000 (tuition) + \u20b91,30,000 (hostel & mess) = \u20b94,30,000 total per year. Merit scholarships and education loans available.",
+          "keywords": [
+            "additional",
+            "fees",
+            "hidden",
+            "costs"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What scholarships are available?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "scholarships",
+            "available"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the fee payment schedule?",
+          "answer": "The annual fee at KL University for 2025-26 is approximately \u20b93,00,000 (tuition) + \u20b91,30,000 (hostel & mess) = \u20b94,30,000 total per year. Merit scholarships and education loans available.",
+          "keywords": [
+            "fee",
+            "payment",
+            "schedule"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Is there any fee concession for economically weaker sections?",
+          "answer": "The annual fee at KL University for 2025-26 is approximately \u20b93,00,000 (tuition) + \u20b91,30,000 (hostel & mess) = \u20b94,30,000 total per year. Merit scholarships and education loans available.",
+          "keywords": [
+            "fee",
+            "concession",
+            "for",
+            "economically",
+            "weaker"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the refund policy?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "refund",
+            "policy"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are education loans available?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "education",
+            "loans",
+            "available"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the fees for different categories (SC/ST/OBC)?",
+          "answer": "The annual fee at KL University for 2025-26 is approximately \u20b93,00,000 (tuition) + \u20b91,30,000 (hostel & mess) = \u20b94,30,000 total per year. Merit scholarships and education loans available.",
+          "keywords": [
+            "fees",
+            "for",
+            "different",
+            "categories",
+            "(sc/st/obc)"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Is there any fee hike expected in coming years?",
+          "answer": "The annual fee at KL University for 2025-26 is approximately \u20b93,00,000 (tuition) + \u20b91,30,000 (hostel & mess) = \u20b94,30,000 total per year. Merit scholarships and education loans available.",
+          "keywords": [
+            "fee",
+            "hike",
+            "expected",
+            "coming",
+            "years"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the fees for international students?",
+          "answer": "The annual fee at KL University for 2025-26 is approximately \u20b93,00,000 (tuition) + \u20b91,30,000 (hostel & mess) = \u20b94,30,000 total per year. Merit scholarships and education loans available.",
+          "keywords": [
+            "fees",
+            "for",
+            "international",
+            "students"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any merit-based scholarships?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "merit-based",
+            "scholarships"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the caution deposit amount?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "caution",
+            "deposit",
+            "amount"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Can fees be paid in installments?",
+          "answer": "The annual fee at KL University for 2025-26 is approximately \u20b93,00,000 (tuition) + \u20b91,30,000 (hostel & mess) = \u20b94,30,000 total per year. Merit scholarships and education loans available.",
+          "keywords": [
+            "fees",
+            "paid",
+            "installments"
+          ],
+          "category": "fee_related",
+          "confidence_score": 0.95
+        }
+      ],
+      "academic_related": [
+        {
+          "question": "What courses and specializations are offered?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "courses",
+            "and",
+            "specializations",
+            "offered"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the curriculum and syllabus?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "curriculum",
+            "and",
+            "syllabus"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the examination pattern?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "examination",
+            "pattern"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the grading system?",
+          "answer": "KL University follows a credit-based grading system with letter grades (A+, A, B+, B, C+, C, D, F). Grade Point Average (GPA) is calculated on a 10-point scale where A+ = 10, A = 9, B+ = 8, B = 7, C+ = 6, C = 5, D = 4, F = 0. CGPA is the cumulative average of all semester GPAs. Minimum passing grade is D (4.0 points).",
+          "keywords": [
+            "grading",
+            "system"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any industry collaborations?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "industry",
+            "collaborations"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What research opportunities are available?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "research",
+            "opportunities",
+            "available"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the faculty-student ratio?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "faculty-student",
+            "ratio"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any international exchange programs?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "international",
+            "exchange",
+            "programs"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the academic calendar?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "academic",
+            "calendar"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the lab facilities available?",
+          "answer": "KL University has state-of-the-art laboratories for all engineering branches including Computer Programming Labs with latest software, Electronics & Communication Labs with modern equipment, Mechanical Engineering Workshops with CNC machines, Civil Engineering Labs with testing equipment, Electrical Machines Lab, Physics & Chemistry Labs, CAD/CAM Labs, Robotics Lab, and specialized research laboratories.",
+          "keywords": [
+            "lab",
+            "facilities",
+            "available"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any online courses offered?",
+          "answer": "KL University offers comprehensive undergraduate programs including B.Tech in Computer Science Engineering, Electronics & Communication Engineering, Mechanical Engineering, Civil Engineering, Electrical Engineering, Information Technology, Chemical Engineering, Aerospace Engineering, Biotechnology, and emerging fields like Artificial Intelligence, Data Science, Cyber Security, and Internet of Things (IoT).",
+          "keywords": [
+            "online",
+            "courses",
+            "offered"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the project work requirement?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "project",
+            "work",
+            "requirement"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the internship opportunities?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "internship",
+            "opportunities"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the attendance requirement?",
+          "answer": "KL University typically requires a minimum attendance of 75% in all subjects as per university norms. Students with less than 75% attendance may not be allowed to appear for semester examinations. Medical leave and other genuine reasons are considered for attendance shortage with proper documentation and approval from the academic office.",
+          "keywords": [
+            "attendance",
+            "requirement"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any dual degree programs?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "dual",
+            "degree",
+            "programs"
+          ],
+          "category": "academic_related",
+          "confidence_score": 0.95
+        }
+      ],
+      "placement_related": [
+        {
+          "question": "What is the placement record?",
+          "answer": "KL University has established partnerships with companies including TCS, Infosys, Wipro, Accenture, Cognizant, HCL Technologies, Tech Mahindra, Capgemini, IBM, L&T Infotech, Mindtree, Mphasis, DXC Technology, and various regional IT and engineering companies.",
+          "keywords": [
+            "placement",
+            "record"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Which companies visit for placements?",
+          "answer": "KL University has established partnerships with companies including TCS, Infosys, Wipro, Accenture, Cognizant, HCL Technologies, Tech Mahindra, Capgemini, IBM, L&T Infotech, Mindtree, Mphasis, DXC Technology, and various regional IT and engineering companies.",
+          "keywords": [
+            "which",
+            "companies",
+            "visit",
+            "for",
+            "placements"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the average and highest package offered?",
+          "answer": "The average package at KL University ranges from \u20b94-8 LPA with median around \u20b95.5 LPA. Mass recruiters offer \u20b93.5-6 LPA while specialized companies provide \u20b98-15 LPA.",
+          "keywords": [
+            "average",
+            "and",
+            "highest",
+            "package",
+            "offered"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the placement process?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "placement",
+            "process"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What support is provided for placements?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "support",
+            "provided",
+            "for",
+            "placements"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the placement statistics for different branches?",
+          "answer": "KL University has established partnerships with companies including TCS, Infosys, Wipro, Accenture, Cognizant, HCL Technologies, Tech Mahindra, Capgemini, IBM, L&T Infotech, Mindtree, Mphasis, DXC Technology, and various regional IT and engineering companies.",
+          "keywords": [
+            "placement",
+            "statistics",
+            "for",
+            "different",
+            "branches"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any pre-placement offers (PPOs)?",
+          "answer": "KL University has established partnerships with companies including TCS, Infosys, Wipro, Accenture, Cognizant, HCL Technologies, Tech Mahindra, Capgemini, IBM, L&T Infotech, Mindtree, Mphasis, DXC Technology, and various regional IT and engineering companies.",
+          "keywords": [
+            "pre-placement",
+            "offers",
+            "(ppos)"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the alumni network like?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "alumni",
+            "network",
+            "like"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What percentage of students get placed?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "percentage",
+            "students",
+            "get",
+            "placed"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the top recruiting sectors?",
+          "answer": "KL University has established partnerships with companies including TCS, Infosys, Wipro, Accenture, Cognizant, HCL Technologies, Tech Mahindra, Capgemini, IBM, L&T Infotech, Mindtree, Mphasis, DXC Technology, and various regional IT and engineering companies.",
+          "keywords": [
+            "top",
+            "recruiting",
+            "sectors"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any entrepreneurship support programs?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "entrepreneurship",
+            "support",
+            "programs"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the average starting salary?",
+          "answer": "The average package at KL University ranges from \u20b94-8 LPA with median around \u20b95.5 LPA. Mass recruiters offer \u20b93.5-6 LPA while specialized companies provide \u20b98-15 LPA.",
+          "keywords": [
+            "average",
+            "starting",
+            "salary"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Do companies offer internships leading to full-time offers?",
+          "answer": "KL University has established partnerships with companies including TCS, Infosys, Wipro, Accenture, Cognizant, HCL Technologies, Tech Mahindra, Capgemini, IBM, L&T Infotech, Mindtree, Mphasis, DXC Technology, and various regional IT and engineering companies.",
+          "keywords": [
+            "companies",
+            "offer",
+            "internships",
+            "leading",
+            "full-time"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What career guidance is provided?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "career",
+            "guidance",
+            "provided"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any placement preparation programs?",
+          "answer": "KL University has established partnerships with companies including TCS, Infosys, Wipro, Accenture, Cognizant, HCL Technologies, Tech Mahindra, Capgemini, IBM, L&T Infotech, Mindtree, Mphasis, DXC Technology, and various regional IT and engineering companies.",
+          "keywords": [
+            "placement",
+            "preparation",
+            "programs"
+          ],
+          "category": "placement_related",
+          "confidence_score": 0.95
+        }
+      ],
+      "infrastructure_related": [
+        {
+          "question": "What are the campus facilities?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "campus",
+            "facilities"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the hostel facilities?",
+          "answer": "KL University provides separate hostel facilities for boys and girls with modern amenities including furnished single/double occupancy rooms, high-speed Wi-Fi connectivity, mess facilities with nutritious vegetarian and non-vegetarian meals, laundry services, recreational rooms with TV and games, study halls, 24/7 security with CCTV surveillance, medical facilities, and sports facilities within hostel premises.",
+          "keywords": [
+            "hostel",
+            "facilities"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the library facilities?",
+          "answer": "KL University has a well-equipped central library with over 50,000 books, journals, and digital resources. It provides extended hours during exams, high-speed internet, reading halls, group study rooms, online databases including IEEE, ACM, and Springer, and library staff assistance for research and reference materials.",
+          "keywords": [
+            "library",
+            "facilities"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What sports facilities are available?",
+          "answer": "KL University has state-of-the-art laboratories for all engineering branches including Computer Programming Labs with latest software, Electronics & Communication Labs with modern equipment, Mechanical Engineering Workshops with CNC machines, Civil Engineering Labs with testing equipment, Electrical Machines Lab, Physics & Chemistry Labs, CAD/CAM Labs, Robotics Lab, and specialized research laboratories.",
+          "keywords": [
+            "sports",
+            "facilities",
+            "available"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the laboratory facilities?",
+          "answer": "KL University has state-of-the-art laboratories for all engineering branches including Computer Programming Labs with latest software, Electronics & Communication Labs with modern equipment, Mechanical Engineering Workshops with CNC machines, Civil Engineering Labs with testing equipment, Electrical Machines Lab, Physics & Chemistry Labs, CAD/CAM Labs, Robotics Lab, and specialized research laboratories.",
+          "keywords": [
+            "laboratory",
+            "facilities"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Is Wi-Fi available on campus?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "wi-fi",
+            "available",
+            "campus"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What medical facilities are available?",
+          "answer": "KL University has state-of-the-art laboratories for all engineering branches including Computer Programming Labs with latest software, Electronics & Communication Labs with modern equipment, Mechanical Engineering Workshops with CNC machines, Civil Engineering Labs with testing equipment, Electrical Machines Lab, Physics & Chemistry Labs, CAD/CAM Labs, Robotics Lab, and specialized research laboratories.",
+          "keywords": [
+            "medical",
+            "facilities",
+            "available"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the transportation facilities?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "transportation",
+            "facilities"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What dining options are available?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "dining",
+            "options",
+            "available"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What recreational facilities are available?",
+          "answer": "KL University has state-of-the-art laboratories for all engineering branches including Computer Programming Labs with latest software, Electronics & Communication Labs with modern equipment, Mechanical Engineering Workshops with CNC machines, Civil Engineering Labs with testing equipment, Electrical Machines Lab, Physics & Chemistry Labs, CAD/CAM Labs, Robotics Lab, and specialized research laboratories.",
+          "keywords": [
+            "recreational",
+            "facilities",
+            "available"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Is the campus ragging-free?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "campus",
+            "ragging-free"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What security measures are in place?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "security",
+            "measures",
+            "place"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any shopping facilities on campus?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "shopping",
+            "facilities",
+            "campus"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What banking facilities are available?",
+          "answer": "KL University has state-of-the-art laboratories for all engineering branches including Computer Programming Labs with latest software, Electronics & Communication Labs with modern equipment, Mechanical Engineering Workshops with CNC machines, Civil Engineering Labs with testing equipment, Electrical Machines Lab, Physics & Chemistry Labs, CAD/CAM Labs, Robotics Lab, and specialized research laboratories.",
+          "keywords": [
+            "banking",
+            "facilities",
+            "available"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the accommodation options for girls?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "accommodation",
+            "options",
+            "for",
+            "girls"
+          ],
+          "category": "infrastructure_related",
+          "confidence_score": 0.95
+        }
+      ],
+      "location_related": [
+        {
+          "question": "Where is the college located?",
+          "answer": "KL University is strategically located with good connectivity to major transportation hubs. The campus provides a conducive environment for learning with access to urban amenities and facilities.",
+          "keywords": [
+            "where",
+            "college",
+            "located"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "How is the connectivity to the college?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "connectivity",
+            "college"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the nearest airport/railway station?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "nearest",
+            "airport/railway",
+            "station"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the climate like?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "climate",
+            "like"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the nearby attractions?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "nearby",
+            "attractions"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Is the location safe for students?",
+          "answer": "KL University is strategically located with good connectivity to major transportation hubs. The campus provides a conducive environment for learning with access to urban amenities and facilities.",
+          "keywords": [
+            "location",
+            "safe",
+            "for",
+            "students"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the accommodation options outside campus?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "accommodation",
+            "options",
+            "outside",
+            "campus"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the local transportation options?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "local",
+            "transportation",
+            "options"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any shopping malls or markets nearby?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "shopping",
+            "malls",
+            "markets",
+            "nearby"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What healthcare facilities are available nearby?",
+          "answer": "KL University has state-of-the-art laboratories for all engineering branches including Computer Programming Labs with latest software, Electronics & Communication Labs with modern equipment, Mechanical Engineering Workshops with CNC machines, Civil Engineering Labs with testing equipment, Electrical Machines Lab, Physics & Chemistry Labs, CAD/CAM Labs, Robotics Lab, and specialized research laboratories.",
+          "keywords": [
+            "healthcare",
+            "facilities",
+            "available",
+            "nearby"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the recreational options in the city?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "recreational",
+            "options",
+            "city"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "How is the internet connectivity in the area?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "internet",
+            "connectivity",
+            "area"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the cost of living in the city?",
+          "answer": "The annual fee at KL University for 2025-26 is approximately \u20b93,00,000 (tuition) + \u20b91,30,000 (hostel & mess) = \u20b94,30,000 total per year. Merit scholarships and education loans available.",
+          "keywords": [
+            "cost",
+            "living",
+            "city"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "Are there any part-time job opportunities nearby?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "part-time",
+            "job",
+            "opportunities",
+            "nearby"
+          ],
+          "category": "location_related",
+          "confidence_score": 0.95
+        }
+      ],
+      "student_life_related": [
+        {
+          "question": "What clubs and societies are available?",
+          "answer": "KL University offers vibrant student life with numerous clubs, societies, cultural activities, technical events, sports competitions, and various opportunities for overall personality development and skill enhancement.",
+          "keywords": [
+            "clubs",
+            "and",
+            "societies",
+            "available"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What cultural activities are organized?",
+          "answer": "KL University offers vibrant student life with numerous clubs, societies, cultural activities, technical events, sports competitions, and various opportunities for overall personality development and skill enhancement.",
+          "keywords": [
+            "cultural",
+            "activities",
+            "organized"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What technical festivals are conducted?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "technical",
+            "festivals",
+            "conducted"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What sports competitions are held?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "sports",
+            "competitions",
+            "held"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What is the student diversity like?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "student",
+            "diversity",
+            "like"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What support is available for international students?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "support",
+            "available",
+            "for",
+            "international",
+            "students"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the rules and regulations?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "rules",
+            "and",
+            "regulations"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What counseling services are available?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "counseling",
+            "services",
+            "available"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the anti-ragging measures?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "anti-ragging",
+            "measures"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What leadership opportunities are available?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "leadership",
+            "opportunities",
+            "available"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What community service programs exist?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "community",
+            "service",
+            "programs",
+            "exist"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the student welfare measures?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "student",
+            "welfare",
+            "measures"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What grievance redressal mechanisms exist?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "grievance",
+            "redressal",
+            "mechanisms",
+            "exist"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What are the disciplinary policies?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "disciplinary",
+            "policies"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        },
+        {
+          "question": "What support is available for students with disabilities?",
+          "answer": "KL University provides comprehensive information and excellent facilities for all aspects of engineering education. The college maintains high standards in academics, infrastructure, placements, and student support services to ensure successful career outcomes.",
+          "keywords": [
+            "support",
+            "available",
+            "for",
+            "students",
+            "with"
+          ],
+          "category": "student_life_related",
+          "confidence_score": 0.95
+        }
+      ],
+      "Fees": [
+        {
+          "question": "What is the fee structure for 2025-26?",
+          "answer": "The annual fee at KL University for 2025-26 is approximately \u20b9180,000 (tuition) + \u20b9150,000 (hostel & mess) = \u20b9360,000 total per year. Merit scholarships and education loans are available. Fee concessions available for economically weaker sections.",
+          "keywords": [
+            "fee",
+            "structure",
+            "cost",
+            "tuition",
+            "2025-26"
+          ]
+        },
+        {
+          "question": "Are scholarships available?",
+          "answer": "KL University offers various scholarships including merit-based scholarships for top performers (25-100% fee waiver), need-based scholarships for economically weaker sections (complete fee waiver), government scholarships for SC/ST/OBC students, girl child scholarships, sports scholarships, and external scholarships like Inspire and KVPY.",
+          "keywords": [
+            "scholarships",
+            "financial",
+            "aid",
+            "merit",
+            "need-based"
+          ]
+        }
+      ],
+      "Admissions": [
+        {
+          "question": "What are the important dates for 2025 admission?",
+          "answer": "For KL University 2025 admissions: Applications start in March 2025, deadline in May 2025. JEE Main sessions: January 24-February 1 and April 1-8, 2025. JEE Advanced: May 18, 2025. Counseling starts in June 2025, and classes begin in August 2025.",
+          "keywords": [
+            "admission",
+            "dates",
+            "2025",
+            "jee",
+            "counseling"
+          ]
+        },
+        {
+          "question": "What is the eligibility criteria?",
+          "answer": "For admission to KL University, candidates must qualify JEE Main/Advanced (for IITs) or state entrance exams. Academic requirement: 75% in 12th (65% for SC/ST) with Physics, Chemistry, and Mathematics for premier institutes, 60% for others. Age limit: 17-25 years (30 for SC/ST/PwD).",
+          "keywords": [
+            "eligibility",
+            "criteria",
+            "jee",
+            "12th",
+            "percentage"
+          ]
+        }
+      ],
+      "Placements": [
+        {
+          "question": "Which companies visit for placements?",
+          "answer": "KL University has established partnerships with companies including TCS, Infosys, Wipro, Accenture, Cognizant, HCL Technologies, Tech Mahindra, Capgemini, IBM, L&T Infotech, Mindtree, Mphasis, DXC Technology, and various regional IT and engineering companies.",
+          "keywords": [
+            "companies",
+            "visit",
+            "placements",
+            "recruiters"
+          ]
+        },
+        {
+          "question": "What is the average package offered?",
+          "answer": "The average package at KL University ranges from \u20b94-6 LPA with median around \u20b94.5 LPA. Mass recruiters offer \u20b93.5-6 LPA while specialized companies provide \u20b96-15 LPA. The highest package for 2024 was \u20b915 LPA.",
+          "keywords": [
+            "average",
+            "package",
+            "salary",
+            "offered"
+          ]
+        },
+        {
+          "question": "What is the placement percentage?",
+          "answer": "KL University maintains excellent placement records with 95% placement rate for IITs, 90% for NITs, and 80% for other colleges. The placement cell provides comprehensive training including resume building, mock interviews, aptitude training, and soft skills development.",
+          "keywords": [
+            "placement",
+            "percentage",
+            "rate",
+            "statistics"
+          ]
+        }
+      ]
+    }
+  },
+  "last_updated": "August 2025",
+  "academic_year": "2025-26"
+}

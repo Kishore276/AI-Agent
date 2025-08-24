@@ -1,0 +1,17 @@
+{
+  "college_name": "Sir C.R. Reddy College of Engineering",
+  "location": "Andhra Pradesh",
+  "state": "Andhra Pradesh",
+  "established_year": 2008,
+  "college_type": "Private",
+  "affiliation": "JNTUA (Jawaharlal Nehru Technological University Anantapur)",
+  "approval": "AICTE Approved",
+  "accreditation": "NBA Accredited",
+  "campus_area": "50+ acres",
+  "website": "www.sircrreddycollegeofengineering.edu.in",
+  "contact": {
+    "phone": "+91-XXXXXXXXXX",
+    "email": "info@sircrreddycollegeofengineering.edu.in",
+    "address": "Sir C.R. Reddy College of Engineering, Andhra Pradesh, India"
+  }
+}
