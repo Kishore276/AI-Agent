@@ -5,7 +5,11 @@
         "duration": "4 years",
         "total_semesters": 8,
         "eligibility": "10+2 with Physics, Chemistry, Mathematics (60% minimum)",
-        "admission_process": ["KUEE", "JEE Main", "Management Quota"],
+        "admission_process": [
+          "KUEE",
+          "JEE Main",
+          "Management Quota"
+        ],
         "departments": [
           {
             "name": "Computer Science and Engineering",
@@ -20,7 +24,12 @@
             ],
             "intake": 240,
             "faculty_count": 45,
-            "labs": ["AI Lab", "Data Science Lab", "Cyber Security Lab", "Cloud Computing Lab"]
+            "labs": [
+              "AI Lab",
+              "Data Science Lab",
+              "Cyber Security Lab",
+              "Cloud Computing Lab"
+            ]
           },
           {
             "name": "Electronics and Communication Engineering",
@@ -33,7 +42,11 @@
             ],
             "intake": 180,
             "faculty_count": 35,
-            "labs": ["VLSI Lab", "Communication Lab", "Microprocessor Lab"]
+            "labs": [
+              "VLSI Lab",
+              "Communication Lab",
+              "Microprocessor Lab"
+            ]
           },
           {
             "name": "Mechanical Engineering",
@@ -46,7 +59,11 @@
             ],
             "intake": 120,
             "faculty_count": 28,
-            "labs": ["CAD Lab", "Manufacturing Lab", "Thermal Lab"]
+            "labs": [
+              "CAD Lab",
+              "Manufacturing Lab",
+              "Thermal Lab"
+            ]
           },
           {
             "name": "Civil Engineering",
@@ -59,7 +76,11 @@
             ],
             "intake": 60,
             "faculty_count": 20,
-            "labs": ["Structural Lab", "Environmental Lab", "Survey Lab"]
+            "labs": [
+              "Structural Lab",
+              "Environmental Lab",
+              "Survey Lab"
+            ]
           },
           {
             "name": "Electrical and Electronics Engineering",
@@ -72,7 +93,11 @@
             ],
             "intake": 60,
             "faculty_count": 22,
-            "labs": ["Power Systems Lab", "Control Systems Lab", "Machines Lab"]
+            "labs": [
+              "Power Systems Lab",
+              "Control Systems Lab",
+              "Machines Lab"
+            ]
           }
         ]
       }
@@ -141,19 +166,31 @@
       "programs": [
         {
           "name": "Computer Science and Engineering",
-          "specializations": ["AI & ML", "Data Science", "Cyber Security"],
+          "specializations": [
+            "AI & ML",
+            "Data Science",
+            "Cyber Security"
+          ],
           "intake": 30
         },
         {
           "name": "Electronics and Communication Engineering",
-          "specializations": ["VLSI", "Embedded Systems"],
+          "specializations": [
+            "VLSI",
+            "Embedded Systems"
+          ],
           "intake": 18
         }
       ]
     },
     "mba": {
       "duration": "2 years",
-      "specializations": ["Finance", "Marketing", "HR", "Operations"],
+      "specializations": [
+        "Finance",
+        "Marketing",
+        "HR",
+        "Operations"
+      ],
       "intake": 60
     },
     "msc": {

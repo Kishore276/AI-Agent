@@ -5,7 +5,9 @@
         "duration": "4 years",
         "total_semesters": 8,
         "eligibility": "JEE Advanced qualified candidates only",
-        "admission_process": ["JEE Advanced"],
+        "admission_process": [
+          "JEE Advanced"
+        ],
         "departments": [
           {
             "name": "Computer Science and Engineering",
@@ -20,7 +22,13 @@
             ],
             "intake": 120,
             "faculty_count": 65,
-            "labs": ["AI Lab", "Systems Lab", "Networks Lab", "Graphics Lab", "Database Lab"]
+            "labs": [
+              "AI Lab",
+              "Systems Lab",
+              "Networks Lab",
+              "Graphics Lab",
+              "Database Lab"
+            ]
           },
           {
             "name": "Electrical Engineering",
@@ -34,7 +42,12 @@
             ],
             "intake": 120,
             "faculty_count": 70,
-            "labs": ["Power Lab", "Electronics Lab", "Communication Lab", "Control Lab"]
+            "labs": [
+              "Power Lab",
+              "Electronics Lab",
+              "Communication Lab",
+              "Control Lab"
+            ]
           },
           {
             "name": "Mechanical Engineering",
@@ -48,7 +61,12 @@
             ],
             "intake": 120,
             "faculty_count": 60,
-            "labs": ["Manufacturing Lab", "Thermal Lab", "Materials Lab", "Robotics Lab"]
+            "labs": [
+              "Manufacturing Lab",
+              "Thermal Lab",
+              "Materials Lab",
+              "Robotics Lab"
+            ]
           },
           {
             "name": "Civil Engineering",
@@ -62,7 +80,11 @@
             ],
             "intake": 80,
             "faculty_count": 45,
-            "labs": ["Structural Lab", "Environmental Lab", "Geotechnical Lab"]
+            "labs": [
+              "Structural Lab",
+              "Environmental Lab",
+              "Geotechnical Lab"
+            ]
           },
           {
             "name": "Chemical Engineering",
@@ -75,7 +97,11 @@
             ],
             "intake": 80,
             "faculty_count": 40,
-            "labs": ["Process Lab", "Biochemical Lab", "Materials Lab"]
+            "labs": [
+              "Process Lab",
+              "Biochemical Lab",
+              "Materials Lab"
+            ]
           },
           {
             "name": "Aerospace Engineering",
@@ -88,7 +114,11 @@
             ],
             "intake": 60,
             "faculty_count": 35,
-            "labs": ["Wind Tunnel Lab", "Propulsion Lab", "Structures Lab"]
+            "labs": [
+              "Wind Tunnel Lab",
+              "Propulsion Lab",
+              "Structures Lab"
+            ]
           },
           {
             "name": "Metallurgical Engineering and Materials Science",
@@ -101,7 +131,11 @@
             ],
             "intake": 60,
             "faculty_count": 30,
-            "labs": ["Physical Metallurgy Lab", "Process Lab", "Materials Characterization Lab"]
+            "labs": [
+              "Physical Metallurgy Lab",
+              "Process Lab",
+              "Materials Characterization Lab"
+            ]
           }
         ]
       }
@@ -136,17 +170,30 @@
       "programs": [
         {
           "name": "Computer Science and Engineering",
-          "specializations": ["AI & ML", "Systems", "Theory", "Networks"],
+          "specializations": [
+            "AI & ML",
+            "Systems",
+            "Theory",
+            "Networks"
+          ],
           "intake": 50
         },
         {
           "name": "Electrical Engineering",
-          "specializations": ["Power Systems", "VLSI", "Communication"],
+          "specializations": [
+            "Power Systems",
+            "VLSI",
+            "Communication"
+          ],
           "intake": 45
         },
         {
           "name": "Mechanical Engineering",
-          "specializations": ["Thermal", "Design", "Manufacturing"],
+          "specializations": [
+            "Thermal",
+            "Design",
+            "Manufacturing"
+          ],
           "intake": 40
         }
       ]
@@ -170,7 +217,12 @@
     },
     "mba": {
       "duration": "2 years",
-      "specializations": ["Finance", "Marketing", "Operations", "Strategy"],
+      "specializations": [
+        "Finance",
+        "Marketing",
+        "Operations",
+        "Strategy"
+      ],
       "intake": 120
     }
   },

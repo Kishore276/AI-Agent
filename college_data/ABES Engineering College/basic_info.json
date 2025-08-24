@@ -61,6 +61,9 @@
   "fees": {
     "updated_date": "2024-12-15",
     "tuition": "110000",
-    "note": "Fees updated for 2024-25 academic year"
-  }
+    "note": "Fees updated for 2025-26 academic year"
+  },
+  "academic_year": "2025-2026",
+  "last_updated": "August 2025",
+  "established": "Information not available"
 }

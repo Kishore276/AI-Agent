@@ -4,7 +4,10 @@
       "duration": "4 years",
       "total_semesters": 8,
       "eligibility": "JEE Advanced qualified candidates",
-      "admission_process": ["JEE Advanced", "JoSAA Counseling"],
+      "admission_process": [
+        "JEE Advanced",
+        "JoSAA Counseling"
+      ],
       "departments": [
         {
           "name": "Computer Science and Engineering",
@@ -19,7 +22,13 @@
             "Computer Networks"
           ],
           "faculty_count": 45,
-          "research_areas": ["AI/ML", "Computer Vision", "NLP", "Robotics", "HCI"]
+          "research_areas": [
+            "AI/ML",
+            "Computer Vision",
+            "NLP",
+            "Robotics",
+            "HCI"
+          ]
         },
         {
           "name": "Electrical Engineering",
@@ -33,7 +42,11 @@
             "VLSI Design"
           ],
           "faculty_count": 50,
-          "research_areas": ["Power Electronics", "Signal Processing", "Renewable Energy"]
+          "research_areas": [
+            "Power Electronics",
+            "Signal Processing",
+            "Renewable Energy"
+          ]
         },
         {
           "name": "Mechanical Engineering",
@@ -46,7 +59,11 @@
             "Materials Science"
           ],
           "faculty_count": 48,
-          "research_areas": ["Robotics", "Manufacturing", "Thermal Sciences"]
+          "research_areas": [
+            "Robotics",
+            "Manufacturing",
+            "Thermal Sciences"
+          ]
         },
         {
           "name": "Civil Engineering",
@@ -60,7 +77,11 @@
             "Water Resources"
           ],
           "faculty_count": 40,
-          "research_areas": ["Smart Cities", "Sustainable Construction", "Earthquake Engineering"]
+          "research_areas": [
+            "Smart Cities",
+            "Sustainable Construction",
+            "Earthquake Engineering"
+          ]
         },
         {
           "name": "Chemical Engineering",
@@ -73,7 +94,11 @@
             "Materials Engineering"
           ],
           "faculty_count": 35,
-          "research_areas": ["Process Optimization", "Green Chemistry", "Nanotechnology"]
+          "research_areas": [
+            "Process Optimization",
+            "Green Chemistry",
+            "Nanotechnology"
+          ]
         },
         {
           "name": "Engineering Physics",
@@ -86,7 +111,11 @@
             "Computational Physics"
           ],
           "faculty_count": 25,
-          "research_areas": ["Quantum Computing", "Photonics", "Condensed Matter"]
+          "research_areas": [
+            "Quantum Computing",
+            "Photonics",
+            "Condensed Matter"
+          ]
         },
         {
           "name": "Production and Industrial Engineering",
@@ -99,7 +128,11 @@
             "Industrial Automation"
           ],
           "faculty_count": 30,
-          "research_areas": ["Industry 4.0", "Operations Research", "Quality Management"]
+          "research_areas": [
+            "Industry 4.0",
+            "Operations Research",
+            "Quality Management"
+          ]
         },
         {
           "name": "Textile Technology",
@@ -112,7 +145,11 @@
             "Technical Textiles"
           ],
           "faculty_count": 20,
-          "research_areas": ["Smart Textiles", "Sustainable Textiles", "Nanotextiles"]
+          "research_areas": [
+            "Smart Textiles",
+            "Sustainable Textiles",
+            "Nanotextiles"
+          ]
         }
       ]
     },
@@ -125,7 +162,7 @@
           "specialization": "Various CS specializations"
         },
         {
-          "name": "B.Tech + M.Tech in Electrical Engineering", 
+          "name": "B.Tech + M.Tech in Electrical Engineering",
           "intake": 15,
           "specialization": "Power Systems, Electronics"
         }
@@ -139,22 +176,42 @@
       "programs": [
         {
           "name": "Computer Science and Engineering",
-          "specializations": ["AI", "Cybersecurity", "Software Engineering", "Data Analytics"],
+          "specializations": [
+            "AI",
+            "Cybersecurity",
+            "Software Engineering",
+            "Data Analytics"
+          ],
           "intake": 80
         },
         {
           "name": "Electrical Engineering",
-          "specializations": ["Power Systems", "VLSI", "Communication", "Control Systems"],
+          "specializations": [
+            "Power Systems",
+            "VLSI",
+            "Communication",
+            "Control Systems"
+          ],
           "intake": 70
         },
         {
           "name": "Mechanical Engineering",
-          "specializations": ["Thermal", "Design", "Manufacturing", "Robotics"],
+          "specializations": [
+            "Thermal",
+            "Design",
+            "Manufacturing",
+            "Robotics"
+          ],
           "intake": 60
         },
         {
           "name": "Civil Engineering",
-          "specializations": ["Structural", "Environmental", "Transportation", "Geotechnical"],
+          "specializations": [
+            "Structural",
+            "Environmental",
+            "Transportation",
+            "Geotechnical"
+          ],
           "intake": 50
         }
       ]
@@ -165,17 +222,28 @@
         {
           "name": "Physics",
           "intake": 25,
-          "specializations": ["Condensed Matter", "High Energy Physics", "Optics"]
+          "specializations": [
+            "Condensed Matter",
+            "High Energy Physics",
+            "Optics"
+          ]
         },
         {
           "name": "Chemistry",
           "intake": 25,
-          "specializations": ["Organic", "Inorganic", "Physical Chemistry"]
+          "specializations": [
+            "Organic",
+            "Inorganic",
+            "Physical Chemistry"
+          ]
         },
         {
           "name": "Mathematics",
           "intake": 20,
-          "specializations": ["Applied Mathematics", "Pure Mathematics"]
+          "specializations": [
+            "Applied Mathematics",
+            "Pure Mathematics"
+          ]
         }
       ]
     },
@@ -183,7 +251,13 @@
       "duration": "2 years",
       "program": "Department of Management Studies",
       "intake": 90,
-      "specializations": ["Finance", "Marketing", "Operations", "Strategy", "Technology Management"]
+      "specializations": [
+        "Finance",
+        "Marketing",
+        "Operations",
+        "Strategy",
+        "Technology Management"
+      ]
     }
   },
   "doctoral_programs": {

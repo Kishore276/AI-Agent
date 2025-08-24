@@ -1,7 +1,7 @@
 {
   "academic_year": "2025-2026",
   "currency": "INR",
-  "last_updated": "December 2024",
+  "last_updated": "August 2025",
   "undergraduate": {
     "btech": {
       "tuition_fee_per_year": 100000,
@@ -18,14 +18,10 @@
       }
     }
   },
-  "hostel_fees": {
-    "accommodation_per_year": 25000,
-    "mess_fee_per_year": 30000,
-    "total_per_year": 55000
-  },
+  "hostel_fees": 75000,
   "scholarships": {
     "merit_scholarships": "25-100% fee waiver for top performers in JEE/EAMCET",
-    "need_based": "Complete fee waiver for family income below \u20b95 lakhs per annum",
+    "need_based": "Complete fee waiver for family income below ₹5 lakhs per annum",
     "government_scholarships": "SC/ST/OBC scholarships as per government norms",
     "girl_child_scholarships": "Special scholarships for girl students",
     "sports_scholarships": "Fee concessions for outstanding sports achievements",
@@ -62,7 +58,7 @@
       {
         "name": "Central Sector Scholarship",
         "eligibility": "Top 20,000 JEE Main qualifiers",
-        "amount": "\u20b912,000 per year",
+        "amount": "₹12,000 per year",
         "duration": "4 years"
       },
       {
@@ -74,7 +70,7 @@
       {
         "name": "OBC Scholarship",
         "eligibility": "OBC students with family income < 8 lakhs",
-        "amount": "\u20b915,000 per year",
+        "amount": "₹15,000 per year",
         "duration": "4 years"
       }
     ],
@@ -96,7 +92,7 @@
       {
         "name": "Inspire Scholarship",
         "eligibility": "Top 1% in 12th board",
-        "amount": "\u20b980,000 per year",
+        "amount": "₹80,000 per year",
         "duration": "4 years"
       }
     ]
@@ -121,10 +117,10 @@
         "Axis Bank",
         "Canara Bank"
       ],
-      "loan_amount": "Up to \u20b920 lakhs",
+      "loan_amount": "Up to ₹20 lakhs",
       "interest_rate": "8.5% - 12% per annum",
       "processing_time": "15-30 days",
-      "collateral_required": "For loans > \u20b97.5 lakhs"
+      "collateral_required": "For loans > ₹7.5 lakhs"
     }
   },
   "undergraduate_fees": {
@@ -163,8 +159,17 @@
   },
   "payment_options": {
     "installments": "Fees can be paid in 2-4 installments per semester",
-    "education_loans": "Tie-ups with SBI, HDFC, ICICI, Axis Bank for education loans up to \u20b920 lakhs",
+    "education_loans": "Tie-ups with SBI, HDFC, ICICI, Axis Bank for education loans up to ₹20 lakhs",
     "online_payment": "Available through college portal and UPI",
     "updated": "August 2025"
+  },
+  "tuition_fees": 175000,
+  "total_annual_fees": 250000,
+  "fee_description": "₹2,50,000 per year (₹1,75,000 tuition + ₹75,000 hostel & mess)",
+  "fee_breakdown": {
+    "tuition_fees": 175000,
+    "hostel_mess_fees": 75000,
+    "other_fees": 25000,
+    "total_annual": 250000
   }
 }

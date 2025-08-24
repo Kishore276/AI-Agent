@@ -162,5 +162,17 @@
     "Aadhar card and PAN card",
     "Medical fitness certificate",
     "Migration certificate (for students from other boards)"
-  ]
+  ],
+  "jee_main_2025": {
+    "session_1": "January 24 - February 1, 2025",
+    "session_2": "April 1 - April 8, 2025"
+  },
+  "jee_advanced_2025": "May 18, 2025",
+  "counseling_dates": {
+    "josaa": "June 10 - August 25, 2025",
+    "csab": "August 26 - September 30, 2025"
+  },
+  "classes_start": "August 2025",
+  "application_deadline": "April 30, 2025",
+  "academic_year": "2025-2026"
 }

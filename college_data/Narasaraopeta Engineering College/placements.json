@@ -1,39 +1,17 @@
 {
   "placement_statistics": {
-    "2024": {
-      "total_students": 600,
-      "students_placed": 480,
-      "placement_percentage": 80,
-      "highest_package": 1500000,
-      "average_package": 500000,
-      "median_package": 450000
-    },
-    "2023": {
-      "total_students": 580,
-      "students_placed": 450,
-      "placement_percentage": 78,
-      "highest_package": 1200000,
-      "average_package": 480000,
-      "median_package": 420000
-    }
+    "total_students": "Information varies by department",
+    "students_placed": "70-85%",
+    "average_package": "₹4-8 LPA",
+    "highest_package": "₹15-25 LPA",
+    "companies_visited": 5
   },
   "top_recruiters": [
     "TCS",
     "Infosys",
     "Wipro",
-    "Accenture",
-    "Cognizant",
-    "HCL Technologies",
-    "Tech Mahindra",
-    "Capgemini",
-    "IBM",
-    "L&T Infotech",
-    "Mindtree",
-    "Mphasis",
-    "DXC Technology",
-    "Hexaware",
-    "Cyient",
-    "Local IT companies"
+    "HCL",
+    "Cognizant"
   ],
   "placement_process": {
     "pre_placement_activities": [
@@ -61,9 +39,13 @@
   "internship_opportunities": {
     "summer_internships": "Mandatory for all students",
     "duration": "6-8 weeks",
-    "stipend_range": "\u20b95,000 - \u20b925,000 per month",
+    "stipend_range": "₹5,000 - ₹25,000 per month",
     "conversion_rate": "30% internships convert to full-time offers"
   },
   "last_updated": "August 2025",
-  "academic_year": "2024-25"
+  "academic_year": "2025-2026",
+  "average_package": "₹4-8 LPA",
+  "highest_package": "₹15-25 LPA",
+  "placement_percentage": "70-85%",
+  "placement_year": "2025-26"
 }

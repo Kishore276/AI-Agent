@@ -1,42 +1,18 @@
 {
   "placement_statistics": {
-    "2024": {
-      "total_students": 1200,
-      "students_placed": 1140,
-      "placement_percentage": 95,
-      "highest_package": 20000000,
-      "average_package": 1800000,
-      "median_package": 1500000
-    },
-    "2023": {
-      "total_students": 1150,
-      "students_placed": 1080,
-      "placement_percentage": 94,
-      "highest_package": 18000000,
-      "average_package": 1650000,
-      "median_package": 1400000
-    }
+    "total_students": "Information varies by department",
+    "students_placed": "95-98%",
+    "average_package": "₹18-25 LPA",
+    "highest_package": "₹80-150 LPA",
+    "companies_visited": 6
   },
   "top_recruiters": [
     "Google",
     "Microsoft",
     "Amazon",
-    "Apple",
     "Goldman Sachs",
-    "McKinsey & Company",
-    "Boston Consulting Group",
-    "Facebook (Meta)",
-    "Netflix",
-    "Adobe",
-    "Intel",
-    "NVIDIA",
-    "Qualcomm",
-    "Samsung",
-    "Uber",
-    "Tesla",
-    "SpaceX",
-    "JP Morgan",
-    "Deutsche Bank"
+    "McKinsey",
+    "Adobe"
   ],
   "placement_process": {
     "pre_placement_activities": [
@@ -64,9 +40,13 @@
   "internship_opportunities": {
     "summer_internships": "Mandatory for all students",
     "duration": "6-8 weeks",
-    "stipend_range": "\u20b95,000 - \u20b925,000 per month",
+    "stipend_range": "₹5,000 - ₹25,000 per month",
     "conversion_rate": "30% internships convert to full-time offers"
   },
   "last_updated": "August 2025",
-  "academic_year": "2024-25"
+  "academic_year": "2025-2026",
+  "average_package": "₹18-25 LPA",
+  "highest_package": "₹80-150 LPA",
+  "placement_percentage": "95-98%",
+  "placement_year": "2025-26"
 }

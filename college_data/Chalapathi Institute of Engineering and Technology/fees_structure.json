@@ -35,7 +35,7 @@
   },
   "scholarships": {
     "merit_scholarships": "25-100% fee waiver for top performers in JEE/EAMCET",
-    "need_based": "Complete fee waiver for family income below \u20b95 lakhs per annum",
+    "need_based": "Complete fee waiver for family income below ₹5 lakhs per annum",
     "government_scholarships": "SC/ST/OBC scholarships as per government norms",
     "girl_child_scholarships": "Special scholarships for girl students",
     "sports_scholarships": "Fee concessions for outstanding sports achievements",
@@ -43,8 +43,20 @@
   },
   "payment_options": {
     "installments": "Fees can be paid in 2-4 installments per semester",
-    "education_loans": "Tie-ups with SBI, HDFC, ICICI, Axis Bank for education loans up to \u20b920 lakhs",
+    "education_loans": "Tie-ups with SBI, HDFC, ICICI, Axis Bank for education loans up to ₹20 lakhs",
     "online_payment": "Available through college portal and UPI",
     "updated": "August 2025"
+  },
+  "academic_year": "2025-2026",
+  "tuition_fees": 200000,
+  "hostel_fees": 100000,
+  "total_annual_fees": 300000,
+  "fee_description": "₹2,00,000 - ₹3,00,000 per year (varies by program)",
+  "last_updated": "August 2025",
+  "fee_breakdown": {
+    "tuition_fees": 200000,
+    "hostel_mess_fees": 100000,
+    "other_fees": 25000,
+    "total_annual": 300000
   }
 }

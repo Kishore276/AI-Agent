@@ -1,21 +1,10 @@
 {
   "placement_statistics": {
-    "2024": {
-      "total_students": 800,
-      "students_placed": 720,
-      "placement_percentage": 90,
-      "highest_package": 6000000,
-      "average_package": 1200000,
-      "median_package": 1000000
-    },
-    "2023": {
-      "total_students": 780,
-      "students_placed": 690,
-      "placement_percentage": 88,
-      "highest_package": 5500000,
-      "average_package": 1100000,
-      "median_package": 950000
-    }
+    "total_students": "Information varies by department",
+    "students_placed": "85-95%",
+    "average_package": "₹12-18 LPA",
+    "highest_package": "₹40-80 LPA",
+    "companies_visited": 6
   },
   "department_wise_placements": {
     "computer_science": {
@@ -46,21 +35,7 @@
     "Wipro",
     "Accenture",
     "IBM",
-    "Cognizant",
-    "HCL Technologies",
-    "L&T",
-    "BHEL",
-    "ONGC",
-    "ISRO",
-    "DRDO",
-    "Mahindra",
-    "Bajaj",
-    "Maruti Suzuki",
-    "Bosch",
-    "Siemens",
-    "Microsoft",
-    "Amazon",
-    "Adobe"
+    "Cognizant"
   ],
   "alumni_network": {
     "total_alumni": 30000,
@@ -115,5 +90,9 @@
     }
   },
   "last_updated": "August 2025",
-  "academic_year": "2024-25"
+  "academic_year": "2025-2026",
+  "average_package": "₹12-18 LPA",
+  "highest_package": "₹40-80 LPA",
+  "placement_percentage": "85-95%",
+  "placement_year": "2025-26"
 }
